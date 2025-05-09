@@ -9,6 +9,9 @@ from deepface import DeepFace
 import time
 from fer import FER
 from collections import Counter
+from database import log_emotion_data
+from geo import get_geolocation
+
 
 # Create a folder named 'known_faces' and put your reference images there
 
@@ -172,3 +175,7 @@ for name, emotions in emotion_history.items():
     age_range = known_faces_age_ranges.get(name, "Unknown Age")
 
     print(f"- Name: {name}, Age: {age_range}, Dominant Emotion: {dominant_emotion}")
+    city, country = get_geolocation()
+    log_emotion_data(name, age_range, dominant_emotion, city, country)
+    
+

@@ -1,0 +1,2001 @@
+id,name,age_range,emotion,timestamp,city,country
+1,User_42,60+,happy,1744668246,London,Australia
+2,User_92,20-29,neutral,1743639414,Tokyo,France
+3,User_37,60+,sad,1744548104,Sydney,India
+4,User_58,60+,disgust,1743919454,New York,USA
+5,User_49,50-59,angry,1744929084,Paris,India
+6,User_55,50-59,fear,1744253492,New York,France
+7,User_9,<10,fear,1745277895,Tokyo,UK
+8,User_53,20-29,happy,1743999712,Tokyo,Japan
+9,User_39,20-29,surprise,1745120430,Sydney,Australia
+10,User_99,10-19,angry,1745748088,Tokyo,Japan
+11,User_26,40-49,sad,1744101640,New York,UK
+12,User_86,50-59,disgust,1744766798,Berlin,Japan
+13,User_63,10-19,disgust,1743746621,Mumbai,USA
+14,User_2,<10,angry,1745786760,Paris,Germany
+15,User_9,20-29,surprise,1744503685,Berlin,Australia
+16,User_61,20-29,fear,1743929614,Berlin,France
+17,User_61,50-59,fear,1744563907,London,France
+18,User_85,50-59,fear,1743746584,New York,UK
+19,User_24,30-39,surprise,1744456544,Mumbai,Japan
+20,User_39,10-19,angry,1743932211,Paris,UK
+21,User_56,50-59,happy,1743796739,New York,USA
+22,User_55,40-49,neutral,1745665488,Berlin,India
+23,User_38,40-49,fear,1744800235,Berlin,India
+24,User_18,<10,surprise,1745190833,Mumbai,Japan
+25,User_4,40-49,happy,1745128445,Tokyo,India
+26,User_57,40-49,sad,1745592216,Mumbai,Germany
+27,User_3,50-59,neutral,1743599114,Tokyo,Japan
+28,User_15,10-19,happy,1744132599,New York,India
+29,User_34,30-39,sad,1744863810,London,Australia
+30,User_74,60+,angry,1745424530,New York,France
+31,User_51,60+,fear,1744184165,Berlin,India
+32,User_10,60+,happy,1743551593,Sydney,France
+33,User_19,10-19,fear,1745574924,Paris,Japan
+34,User_16,30-39,neutral,1745321362,Tokyo,India
+35,User_46,30-39,surprise,1743859465,Paris,France
+36,User_82,50-59,sad,1743722974,Tokyo,France
+37,User_62,<10,neutral,1744665570,Sydney,Australia
+38,User_94,<10,fear,1745611115,Sydney,Japan
+39,User_1,20-29,disgust,1744352256,Tokyo,France
+40,User_46,60+,sad,1744495493,New York,UK
+41,User_96,10-19,sad,1743492662,Paris,UK
+42,User_80,30-39,sad,1745289082,New York,India
+43,User_24,40-49,angry,1745169798,Mumbai,Japan
+44,User_87,60+,neutral,1745919134,London,Germany
+45,User_74,60+,sad,1745299028,New York,France
+46,User_15,10-19,disgust,1744045303,New York,India
+47,User_12,60+,surprise,1745860139,Berlin,Japan
+48,User_49,50-59,angry,1745245621,Paris,India
+49,User_53,20-29,fear,1744665394,Tokyo,Japan
+50,User_77,50-59,happy,1744483866,Mumbai,Germany
+51,User_11,20-29,fear,1743516610,Berlin,UK
+52,User_55,<10,sad,1744428373,Mumbai,USA
+53,User_7,40-49,fear,1743859034,Paris,USA
+54,User_58,40-49,disgust,1745943506,Tokyo,UK
+55,User_55,30-39,happy,1744435037,Paris,UK
+56,User_56,50-59,angry,1745643647,New York,USA
+57,User_71,20-29,angry,1744267092,London,UK
+58,User_61,60+,neutral,1745515616,Tokyo,Germany
+59,User_27,30-39,disgust,1745002449,Paris,Australia
+60,User_43,60+,fear,1745019034,London,Japan
+61,User_22,<10,happy,1743777706,Tokyo,Australia
+62,User_19,10-19,sad,1745515393,Paris,Japan
+63,User_100,<10,happy,1744495243,Berlin,India
+64,User_2,<10,surprise,1743841887,London,UK
+65,User_57,40-49,disgust,1744458516,Sydney,Australia
+66,User_28,10-19,surprise,1744992414,London,France
+67,User_16,30-39,neutral,1745542574,Tokyo,India
+68,User_28,60+,neutral,1745547748,New York,France
+69,User_81,40-49,neutral,1745080732,Paris,France
+70,User_71,20-29,surprise,1744974178,London,UK
+71,User_34,30-39,angry,1744591943,London,Australia
+72,User_63,30-39,sad,1743563112,London,Japan
+73,User_66,<10,angry,1745807029,London,USA
+74,User_39,10-19,sad,1744223470,Paris,UK
+75,User_43,60+,disgust,1744790206,London,Japan
+76,User_81,50-59,neutral,1745517183,New York,Australia
+77,User_57,50-59,fear,1743637372,New York,India
+78,User_56,50-59,sad,1744730462,New York,USA
+79,User_99,10-19,neutral,1744176421,Tokyo,Japan
+80,User_71,<10,happy,1745590255,Mumbai,USA
+81,User_46,30-39,sad,1745691577,Paris,France
+82,User_21,20-29,happy,1745221272,Tokyo,Japan
+83,User_98,30-39,angry,1743640556,Paris,Australia
+84,User_28,60+,fear,1744621333,New York,France
+85,User_62,50-59,neutral,1743927226,London,Australia
+86,User_64,50-59,happy,1744712517,Sydney,France
+87,User_22,<10,happy,1744047196,Paris,Australia
+88,User_55,50-59,surprise,1744065010,New York,France
+89,User_11,60+,neutral,1743705386,Berlin,France
+90,User_32,20-29,fear,1743544805,Sydney,Germany
+91,User_34,30-39,disgust,1743700036,London,Australia
+92,User_46,<10,angry,1745865897,London,Australia
+93,User_39,20-29,fear,1745427982,Sydney,Australia
+94,User_55,40-49,fear,1745479033,Berlin,India
+95,User_66,50-59,happy,1744495195,London,Japan
+96,User_57,50-59,sad,1744676302,New York,India
+97,User_8,60+,sad,1743519638,Berlin,Australia
+98,User_46,40-49,disgust,1744651958,Berlin,India
+99,User_71,<10,surprise,1744330571,Mumbai,USA
+100,User_95,30-39,angry,1744304820,Sydney,India
+101,User_26,20-29,angry,1745741170,Tokyo,Australia
+102,User_100,<10,disgust,1745085838,Berlin,India
+103,User_3,60+,neutral,1743872680,New York,India
+104,User_37,50-59,sad,1744016902,Berlin,Australia
+105,User_11,20-29,sad,1743773540,New York,India
+106,User_77,50-59,neutral,1744446763,Paris,Japan
+107,User_66,<10,neutral,1744459172,London,USA
+108,User_39,40-49,surprise,1745718643,Mumbai,USA
+109,User_52,60+,happy,1744056445,Mumbai,India
+110,User_15,50-59,surprise,1745113194,Berlin,Germany
+111,User_46,30-39,fear,1743795098,Paris,Japan
+112,User_49,50-59,angry,1744928641,Paris,India
+113,User_72,60+,disgust,1745025533,Tokyo,USA
+114,User_26,20-29,surprise,1743805156,Tokyo,Australia
+115,User_46,60+,disgust,1744856767,New York,UK
+116,User_24,30-39,neutral,1745807482,Mumbai,Japan
+117,User_12,20-29,angry,1743798648,Tokyo,France
+118,User_56,20-29,sad,1745901378,Paris,Japan
+119,User_100,<10,disgust,1743914897,Berlin,India
+120,User_85,50-59,fear,1744766798,New York,UK
+121,User_40,40-49,disgust,1745855431,Berlin,India
+122,User_63,30-39,sad,1743562832,London,Japan
+123,User_51,20-29,fear,1745446839,Mumbai,India
+124,User_72,60+,neutral,1743576460,Tokyo,USA
+125,User_19,10-19,fear,1744079163,Paris,Japan
+126,User_96,50-59,fear,1743986759,Sydney,India
+127,User_61,20-29,neutral,1746023021,Berlin,France
+128,User_4,40-49,happy,1744817139,Tokyo,India
+129,User_13,30-39,sad,1746000589,Paris,France
+130,User_77,50-59,fear,1745536370,Mumbai,Germany
+131,User_41,<10,disgust,1745956332,Sydney,UK
+132,User_3,50-59,angry,1744754547,Tokyo,Japan
+133,User_6,60+,fear,1744358152,New York,UK
+134,User_33,30-39,sad,1745424383,Berlin,Germany
+135,User_71,40-49,fear,1745686119,Sydney,Germany
+136,User_24,50-59,neutral,1745003003,Berlin,France
+137,User_86,50-59,sad,1744829860,Berlin,Japan
+138,User_9,<10,fear,1744222844,Tokyo,UK
+139,User_41,60+,angry,1744755360,Sydney,Japan
+140,User_98,30-39,surprise,1745127793,New York,Japan
+141,User_56,40-49,sad,1745663124,New York,France
+142,User_86,10-19,disgust,1743875603,Paris,France
+143,User_85,50-59,angry,1744035823,New York,UK
+144,User_61,60+,sad,1744072847,Tokyo,Germany
+145,User_3,30-39,angry,1743491112,Tokyo,USA
+146,User_41,60+,fear,1743963908,Sydney,Japan
+147,User_19,10-19,sad,1745208327,Sydney,Germany
+148,User_14,60+,angry,1744082272,London,France
+149,User_66,<10,happy,1744148754,London,USA
+150,User_80,30-39,angry,1743471928,New York,India
+151,User_24,30-39,disgust,1744829512,Mumbai,Japan
+152,User_81,40-49,disgust,1744761003,Paris,France
+153,User_7,30-39,neutral,1743813825,Tokyo,UK
+154,User_57,20-29,happy,1745495350,Sydney,Germany
+155,User_36,20-29,neutral,1744683442,Paris,France
+156,User_89,20-29,happy,1745238901,Sydney,UK
+157,User_56,40-49,happy,1744522589,New York,France
+158,User_3,60+,disgust,1744057638,New York,India
+159,User_99,10-19,angry,1745229057,Tokyo,Japan
+160,User_33,30-39,angry,1744783258,London,UK
+161,User_37,40-49,surprise,1745673041,Berlin,Australia
+162,User_55,40-49,fear,1743522909,Berlin,India
+163,User_7,30-39,angry,1744687289,Tokyo,UK
+164,User_55,<10,angry,1745299011,Mumbai,USA
+165,User_57,40-49,happy,1745183729,Sydney,Australia
+166,User_62,<10,sad,1745306055,Sydney,Australia
+167,User_57,40-49,neutral,1745650442,Mumbai,Germany
+168,User_19,30-39,angry,1745626622,Sydney,Australia
+169,User_78,40-49,sad,1745613850,Mumbai,France
+170,User_49,50-59,sad,1744998235,Paris,India
+171,User_33,30-39,neutral,1744528221,London,UK
+172,User_100,20-29,neutral,1743999543,New York,Germany
+173,User_71,40-49,sad,1744679967,Sydney,Germany
+174,User_46,60+,happy,1743639868,Mumbai,UK
+175,User_20,30-39,fear,1746025412,London,USA
+176,User_98,30-39,angry,1743932446,New York,Japan
+177,User_22,<10,fear,1743903925,Tokyo,Australia
+178,User_51,20-29,neutral,1744936198,Mumbai,India
+179,User_58,40-49,fear,1744501165,Tokyo,UK
+180,User_46,60+,fear,1744623627,Mumbai,UK
+181,User_65,40-49,happy,1744220019,Berlin,India
+182,User_26,40-49,neutral,1744543868,New York,UK
+183,User_63,30-39,neutral,1745825729,London,Japan
+184,User_95,<10,sad,1745908534,Berlin,Germany
+185,User_100,10-19,sad,1745102884,London,USA
+186,User_89,30-39,neutral,1744171278,New York,USA
+187,User_11,20-29,angry,1744941767,New York,India
+188,User_28,60+,neutral,1745362889,London,Germany
+189,User_11,60+,disgust,1743673899,Berlin,France
+190,User_22,<10,surprise,1744549583,Tokyo,Australia
+191,User_92,20-29,sad,1744061883,Tokyo,France
+192,User_74,40-49,happy,1744608762,Tokyo,USA
+193,User_38,40-49,disgust,1744870468,Berlin,India
+194,User_2,<10,neutral,1744210697,Paris,Germany
+195,User_84,60+,neutral,1743676853,Berlin,Germany
+196,User_39,10-19,fear,1745319639,Paris,UK
+197,User_10,30-39,fear,1745047487,Sydney,Japan
+198,User_38,40-49,neutral,1745743553,Berlin,India
+199,User_66,50-59,disgust,1743829625,London,Japan
+200,User_72,50-59,happy,1744818944,Mumbai,France
+201,User_80,10-19,disgust,1744709178,London,Germany
+202,User_77,10-19,neutral,1743494471,New York,Germany
+203,User_39,20-29,sad,1743855994,Sydney,Australia
+204,User_16,20-29,sad,1745015785,Berlin,USA
+205,User_48,60+,neutral,1743869620,London,India
+206,User_71,40-49,sad,1744393823,Sydney,Germany
+207,User_9,<10,sad,1745192047,Tokyo,UK
+208,User_89,20-29,sad,1745221637,Sydney,UK
+209,User_39,10-19,neutral,1745337278,Paris,UK
+210,User_39,20-29,angry,1743495857,Paris,UK
+211,User_30,10-19,happy,1744188323,Berlin,France
+212,User_55,50-59,happy,1745038682,New York,France
+213,User_81,40-49,surprise,1745748052,Tokyo,Japan
+214,User_56,50-59,disgust,1743579814,New York,USA
+215,User_100,20-29,sad,1743474714,New York,Germany
+216,User_16,20-29,neutral,1743615994,Berlin,USA
+217,User_33,30-39,surprise,1745096201,Berlin,Germany
+218,User_95,30-39,sad,1743459688,Sydney,India
+219,User_98,30-39,surprise,1744867859,New York,Japan
+220,User_32,60+,sad,1745814225,New York,Japan
+221,User_26,20-29,angry,1745578812,Tokyo,Australia
+222,User_37,20-29,disgust,1743737578,Paris,Germany
+223,User_19,50-59,happy,1744997765,New York,USA
+224,User_2,30-39,angry,1744481990,Paris,India
+225,User_100,<10,neutral,1744208209,Berlin,India
+226,User_32,60+,sad,1745113926,New York,Japan
+227,User_63,30-39,fear,1745206680,London,Japan
+228,User_8,10-19,angry,1744241770,Tokyo,Japan
+229,User_77,<10,happy,1745865478,Mumbai,Australia
+230,User_22,<10,sad,1744113945,Paris,Australia
+231,User_28,60+,disgust,1745370495,London,Germany
+232,User_16,20-29,sad,1745913567,Berlin,USA
+233,User_2,<10,surprise,1745064126,Paris,Germany
+234,User_85,50-59,happy,1744764374,New York,UK
+235,User_22,<10,neutral,1744802307,Tokyo,Australia
+236,User_57,40-49,sad,1745780661,Sydney,Australia
+237,User_19,10-19,neutral,1745408099,Sydney,Germany
+238,User_28,10-19,neutral,1745777340,London,France
+239,User_50,10-19,sad,1744255248,New York,UK
+240,User_70,40-49,neutral,1745946991,Paris,France
+241,User_18,<10,disgust,1745240162,Mumbai,Japan
+242,User_77,<10,neutral,1744352579,Mumbai,Australia
+243,User_99,10-19,disgust,1745424300,Tokyo,Japan
+244,User_43,60+,surprise,1745897539,London,Japan
+245,User_17,<10,fear,1744206693,Tokyo,France
+246,User_38,10-19,neutral,1743598482,Berlin,India
+247,User_9,<10,angry,1745248191,Tokyo,UK
+248,User_57,40-49,happy,1745977895,Mumbai,Germany
+249,User_41,<10,sad,1745360826,Sydney,UK
+250,User_59,<10,angry,1744078578,Mumbai,USA
+251,User_16,40-49,neutral,1745542884,Paris,India
+252,User_22,<10,fear,1744656648,Tokyo,Australia
+253,User_24,40-49,happy,1745317205,Mumbai,Japan
+254,User_18,<10,angry,1743782208,Mumbai,Japan
+255,User_72,60+,fear,1743554962,Tokyo,USA
+256,User_58,20-29,happy,1746041648,Mumbai,India
+257,User_95,<10,fear,1745286885,Berlin,Germany
+258,User_85,50-59,neutral,1745254458,New York,UK
+259,User_82,50-59,neutral,1744397129,Tokyo,France
+260,User_2,<10,angry,1744892279,Mumbai,Japan
+261,User_53,20-29,surprise,1744766082,Tokyo,Japan
+262,User_19,10-19,disgust,1745647571,Sydney,Germany
+263,User_66,50-59,happy,1745000685,London,Japan
+264,User_3,30-39,fear,1744871867,Tokyo,USA
+265,User_11,<10,disgust,1745321886,Paris,India
+266,User_10,60+,sad,1744236524,Sydney,France
+267,User_25,20-29,sad,1744368021,Tokyo,Germany
+268,User_58,20-29,surprise,1744676435,Mumbai,India
+269,User_11,30-39,fear,1744547737,Mumbai,Australia
+270,User_73,10-19,angry,1743991385,Sydney,Australia
+271,User_4,40-49,sad,1744918175,Tokyo,India
+272,User_77,50-59,happy,1744337777,Paris,Japan
+273,User_56,50-59,surprise,1744640106,New York,USA
+274,User_3,60+,disgust,1744038413,New York,India
+275,User_16,30-39,surprise,1745238696,Tokyo,India
+276,User_72,50-59,happy,1743572452,Mumbai,France
+277,User_37,20-29,surprise,1745424523,Paris,Germany
+278,User_28,60+,neutral,1745520619,New York,France
+279,User_39,20-29,neutral,1743801642,Sydney,Australia
+280,User_39,20-29,happy,1744603112,Sydney,Australia
+281,User_37,50-59,fear,1743914280,Berlin,Australia
+282,User_49,10-19,happy,1744388105,London,France
+283,User_71,40-49,surprise,1744874613,Sydney,Germany
+284,User_46,<10,sad,1745591088,London,Australia
+285,User_39,30-39,neutral,1743896126,New York,UK
+286,User_43,30-39,angry,1745284437,London,USA
+287,User_99,<10,disgust,1744435480,London,USA
+288,User_92,20-29,neutral,1744975886,Tokyo,France
+289,User_94,<10,neutral,1744380557,Sydney,Japan
+290,User_16,30-39,disgust,1745112543,Tokyo,India
+291,User_16,30-39,angry,1745236238,Tokyo,India
+292,User_94,<10,fear,1743532660,Sydney,Japan
+293,User_46,<10,surprise,1744906023,London,Australia
+294,User_55,30-39,happy,1743966131,Paris,UK
+295,User_4,50-59,happy,1744813204,Berlin,Germany
+296,User_11,60+,surprise,1744555745,Berlin,France
+297,User_55,<10,surprise,1745136713,Mumbai,USA
+298,User_71,40-49,angry,1745404861,Sydney,Germany
+299,User_100,10-19,surprise,1745524557,London,USA
+300,User_80,10-19,happy,1744749459,London,Germany
+301,User_11,60+,neutral,1744379208,Berlin,France
+302,User_13,30-39,surprise,1745013914,Paris,France
+303,User_53,20-29,angry,1743790090,Tokyo,Japan
+304,User_48,30-39,sad,1745758161,Mumbai,Japan
+305,User_57,50-59,surprise,1745634767,New York,India
+306,User_19,10-19,fear,1744293779,Paris,Japan
+307,User_4,<10,neutral,1744934801,Mumbai,Germany
+308,User_11,30-39,sad,1744536599,Mumbai,Australia
+309,User_62,50-59,happy,1744805944,London,Australia
+310,User_2,30-39,sad,1745142360,Paris,India
+311,User_19,30-39,angry,1743819513,Sydney,Australia
+312,User_39,20-29,neutral,1745828581,Sydney,Australia
+313,User_46,<10,neutral,1745902327,London,Australia
+314,User_71,20-29,neutral,1744618356,London,UK
+315,User_17,<10,angry,1744694980,Tokyo,France
+316,User_53,20-29,angry,1743466931,Tokyo,Japan
+317,User_19,50-59,happy,1743535870,New York,USA
+318,User_33,30-39,surprise,1744382119,Berlin,Germany
+319,User_72,60+,angry,1745653711,Tokyo,USA
+320,User_62,<10,happy,1744199413,Berlin,Germany
+321,User_8,60+,fear,1745964349,London,USA
+322,User_22,<10,fear,1744186356,Tokyo,India
+323,User_95,30-39,fear,1744220507,Sydney,India
+324,User_87,60+,surprise,1745272957,London,Germany
+325,User_11,50-59,neutral,1744886098,Berlin,India
+326,User_11,20-29,fear,1745573485,New York,India
+327,User_100,30-39,disgust,1744580277,New York,France
+328,User_19,10-19,surprise,1743555678,Berlin,India
+329,User_91,30-39,disgust,1745559499,New York,Australia
+330,User_73,10-19,fear,1744005597,Sydney,Australia
+331,User_56,50-59,fear,1744192774,New York,USA
+332,User_28,10-19,disgust,1743928800,London,France
+333,User_62,50-59,angry,1744725721,London,Australia
+334,User_74,60+,surprise,1744774058,New York,France
+335,User_15,50-59,fear,1745683397,Berlin,Germany
+336,User_66,20-29,angry,1743834701,Sydney,Germany
+337,User_9,<10,neutral,1744657597,Tokyo,UK
+338,User_19,10-19,neutral,1744082719,Berlin,India
+339,User_77,20-29,happy,1743465302,Mumbai,USA
+340,User_12,<10,fear,1745549964,Paris,Australia
+341,User_66,20-29,angry,1745998675,Sydney,Germany
+342,User_49,10-19,disgust,1745276596,London,France
+343,User_56,10-19,neutral,1745454144,New York,Australia
+344,User_17,<10,neutral,1746044109,Tokyo,France
+345,User_19,10-19,surprise,1745770309,Berlin,India
+346,User_85,50-59,disgust,1744384985,New York,UK
+347,User_19,10-19,fear,1745107833,Paris,Japan
+348,User_58,20-29,disgust,1746011302,Mumbai,India
+349,User_77,40-49,fear,1744229322,Sydney,USA
+350,User_72,50-59,sad,1744436299,Mumbai,France
+351,User_95,<10,neutral,1745010930,Berlin,Germany
+352,User_32,60+,fear,1743621903,New York,Japan
+353,User_37,40-49,fear,1745635682,Berlin,Australia
+354,User_19,10-19,angry,1743780043,Berlin,India
+355,User_37,60+,neutral,1745254653,Sydney,India
+356,User_46,60+,fear,1745430038,New York,UK
+357,User_41,60+,sad,1743928942,Sydney,Japan
+358,User_32,60+,sad,1744713862,New York,Japan
+359,User_3,60+,surprise,1744151467,New York,India
+360,User_39,10-19,fear,1745139353,Paris,UK
+361,User_26,20-29,angry,1745926854,Tokyo,Australia
+362,User_77,40-49,angry,1745015309,Sydney,USA
+363,User_34,30-39,angry,1744265848,London,Australia
+364,User_61,60+,sad,1745632467,Tokyo,Germany
+365,User_77,50-59,sad,1745645914,Mumbai,Germany
+366,User_30,30-39,angry,1745512547,Paris,Japan
+367,User_37,30-39,neutral,1744027629,Tokyo,India
+368,User_33,30-39,happy,1745851838,London,UK
+369,User_8,10-19,disgust,1746027448,Tokyo,Japan
+370,User_49,40-49,disgust,1744996810,Berlin,USA
+371,User_80,30-39,fear,1744698653,New York,India
+372,User_62,<10,fear,1744151911,Sydney,Australia
+373,User_57,20-29,surprise,1745391042,Sydney,Germany
+374,User_94,<10,disgust,1744929564,Sydney,Japan
+375,User_11,30-39,fear,1744948991,Mumbai,Australia
+376,User_1,40-49,neutral,1743845913,Paris,Japan
+377,User_37,40-49,fear,1744720871,Berlin,Australia
+378,User_11,20-29,fear,1745759985,Berlin,UK
+379,User_63,30-39,surprise,1745513486,London,Japan
+380,User_26,40-49,neutral,1745548925,New York,UK
+381,User_28,10-19,happy,1743639906,London,France
+382,User_19,10-19,happy,1743487253,Berlin,India
+383,User_58,40-49,sad,1745261766,Tokyo,UK
+384,User_10,30-39,angry,1744336459,Sydney,Japan
+385,User_2,<10,surprise,1745151066,Paris,Germany
+386,User_56,10-19,sad,1745487258,New York,Australia
+387,User_100,10-19,surprise,1744024065,London,USA
+388,User_55,40-49,fear,1744114875,Berlin,India
+389,User_32,60+,disgust,1743755996,New York,Japan
+390,User_99,10-19,happy,1746040729,Tokyo,Japan
+391,User_39,20-29,disgust,1745248447,Sydney,Australia
+392,User_17,<10,happy,1745601743,Tokyo,France
+393,User_46,30-39,disgust,1743482208,Paris,France
+394,User_63,30-39,happy,1743609190,London,Japan
+395,User_1,40-49,angry,1743766202,Paris,Japan
+396,User_99,<10,fear,1744713697,London,USA
+397,User_32,60+,angry,1744643828,New York,Japan
+398,User_11,50-59,happy,1746002344,Berlin,India
+399,User_56,10-19,fear,1745574869,New York,Australia
+400,User_3,50-59,sad,1745057595,Tokyo,Japan
+401,User_57,20-29,angry,1744615183,Sydney,Germany
+402,User_49,10-19,happy,1744680912,London,France
+403,User_46,<10,happy,1743688819,London,Australia
+404,User_82,50-59,sad,1744221432,Tokyo,France
+405,User_56,10-19,angry,1744664983,New York,Australia
+406,User_7,40-49,neutral,1743970557,Paris,USA
+407,User_20,30-39,neutral,1744429641,London,USA
+408,User_63,30-39,happy,1744303198,London,Japan
+409,User_55,<10,happy,1743765548,Mumbai,USA
+410,User_56,50-59,angry,1744194251,New York,USA
+411,User_27,30-39,sad,1745568141,Paris,Australia
+412,User_11,20-29,disgust,1745387250,New York,India
+413,User_100,30-39,surprise,1743501556,New York,France
+414,User_94,<10,neutral,1743702570,Sydney,Japan
+415,User_51,20-29,neutral,1745592380,Mumbai,India
+416,User_2,30-39,disgust,1743858744,Paris,India
+417,User_52,20-29,neutral,1745006024,New York,France
+418,User_18,<10,happy,1743839541,Mumbai,Japan
+419,User_49,40-49,angry,1744968635,Berlin,USA
+420,User_25,10-19,fear,1744181202,Tokyo,Germany
+421,User_11,50-59,sad,1743831148,Berlin,India
+422,User_12,60+,fear,1743764552,Berlin,Japan
+423,User_64,50-59,disgust,1743788432,Sydney,France
+424,User_89,20-29,neutral,1745238916,Sydney,UK
+425,User_19,10-19,sad,1745704674,Sydney,Germany
+426,User_17,<10,disgust,1745576246,Tokyo,France
+427,User_43,30-39,neutral,1745496406,London,USA
+428,User_57,40-49,surprise,1744915541,Sydney,Australia
+429,User_11,50-59,neutral,1743531550,Berlin,India
+430,User_17,<10,fear,1744188018,Tokyo,France
+431,User_91,30-39,fear,1744253887,New York,Australia
+432,User_37,20-29,sad,1745942965,Paris,Germany
+433,User_33,<10,happy,1745688344,Sydney,Japan
+434,User_7,30-39,fear,1745697514,Tokyo,UK
+435,User_39,40-49,neutral,1743769543,Mumbai,USA
+436,User_62,<10,happy,1744493172,Berlin,Germany
+437,User_72,50-59,surprise,1746019806,Mumbai,France
+438,User_50,10-19,neutral,1744308419,New York,UK
+439,User_70,40-49,happy,1744062508,Paris,France
+440,User_95,30-39,neutral,1745604784,Sydney,India
+441,User_82,50-59,neutral,1744007093,Tokyo,France
+442,User_57,50-59,sad,1744692231,New York,India
+443,User_22,<10,angry,1745813855,Tokyo,India
+444,User_80,10-19,surprise,1744386076,London,Germany
+445,User_8,10-19,sad,1744427612,Tokyo,Japan
+446,User_19,10-19,neutral,1744602176,Sydney,Germany
+447,User_11,20-29,sad,1745889067,New York,India
+448,User_77,10-19,happy,1745685729,New York,Germany
+449,User_12,60+,surprise,1743745868,Berlin,Japan
+450,User_9,20-29,sad,1745736040,Berlin,Australia
+451,User_82,50-59,neutral,1743813137,Tokyo,France
+452,User_80,10-19,sad,1745613324,London,Germany
+453,User_66,20-29,angry,1744002996,Sydney,Germany
+454,User_59,<10,fear,1745006944,Mumbai,USA
+455,User_95,30-39,neutral,1743916142,Sydney,India
+456,User_100,20-29,angry,1744959029,New York,Germany
+457,User_43,30-39,sad,1744919266,London,USA
+458,User_4,<10,fear,1744690052,Mumbai,Germany
+459,User_3,30-39,disgust,1745453727,Tokyo,USA
+460,User_85,50-59,surprise,1744811770,New York,UK
+461,User_66,<10,neutral,1745452784,London,USA
+462,User_74,60+,sad,1745181784,New York,France
+463,User_19,50-59,angry,1743762683,New York,USA
+464,User_20,30-39,sad,1745315109,London,USA
+465,User_57,50-59,neutral,1745334571,New York,India
+466,User_99,10-19,neutral,1745914335,Tokyo,Japan
+467,User_22,<10,happy,1745102156,Tokyo,Australia
+468,User_77,50-59,surprise,1743855610,Mumbai,Germany
+469,User_61,20-29,happy,1744604937,Berlin,France
+470,User_9,20-29,fear,1745242274,Berlin,Australia
+471,User_9,20-29,angry,1745487989,Berlin,Australia
+472,User_99,<10,neutral,1744597064,London,USA
+473,User_19,10-19,fear,1744255451,Berlin,India
+474,User_3,60+,happy,1745646272,New York,India
+475,User_53,20-29,angry,1743538161,Tokyo,Japan
+476,User_39,40-49,fear,1745941042,Mumbai,USA
+477,User_66,20-29,fear,1743999931,Sydney,Germany
+478,User_57,50-59,neutral,1744407919,New York,India
+479,User_11,30-39,disgust,1743505982,Mumbai,Australia
+480,User_12,60+,fear,1745345869,Berlin,Japan
+481,User_43,30-39,happy,1744772748,London,USA
+482,User_40,20-29,fear,1744966980,Mumbai,India
+483,User_22,<10,surprise,1744861456,Tokyo,Australia
+484,User_58,60+,fear,1744288592,New York,USA
+485,User_55,30-39,surprise,1744422083,Paris,UK
+486,User_43,60+,fear,1745880539,London,Japan
+487,User_52,60+,surprise,1744805043,Mumbai,India
+488,User_95,30-39,happy,1745102396,Sydney,India
+489,User_66,<10,surprise,1744542193,London,USA
+490,User_100,10-19,fear,1745174261,London,USA
+491,User_82,50-59,disgust,1745439063,Tokyo,France
+492,User_7,40-49,sad,1744516272,Paris,USA
+493,User_74,40-49,sad,1744168083,Tokyo,USA
+494,User_39,10-19,happy,1745028860,Paris,UK
+495,User_57,20-29,disgust,1744046969,Sydney,Germany
+496,User_39,20-29,surprise,1745133419,Paris,UK
+497,User_39,40-49,fear,1745105720,Mumbai,USA
+498,User_63,10-19,surprise,1743609142,Mumbai,USA
+499,User_99,<10,neutral,1745496775,London,USA
+500,User_58,10-19,fear,1745232389,Paris,UK
+501,User_24,30-39,sad,1743894723,Mumbai,Japan
+502,User_11,30-39,angry,1744355300,Mumbai,Australia
+503,User_48,60+,happy,1744907715,London,India
+504,User_72,50-59,happy,1743543122,Mumbai,France
+505,User_46,40-49,fear,1743963062,Berlin,India
+506,User_19,10-19,happy,1744951749,Paris,Japan
+507,User_30,30-39,disgust,1745114700,Paris,Japan
+508,User_56,10-19,sad,1743658894,New York,Australia
+509,User_26,20-29,fear,1744004095,Tokyo,Australia
+510,User_89,20-29,disgust,1745667678,Sydney,UK
+511,User_33,30-39,angry,1744147494,London,UK
+512,User_52,60+,neutral,1744625764,Mumbai,India
+513,User_57,50-59,sad,1745149391,New York,India
+514,User_48,30-39,neutral,1745688459,Mumbai,Japan
+515,User_80,10-19,fear,1744728866,London,Germany
+516,User_37,50-59,surprise,1745989931,Berlin,Australia
+517,User_21,20-29,surprise,1745308845,Tokyo,Japan
+518,User_39,30-39,happy,1745433818,New York,UK
+519,User_41,<10,angry,1745513761,Sydney,UK
+520,User_19,10-19,fear,1744228449,Sydney,Germany
+521,User_9,<10,disgust,1743536163,Tokyo,UK
+522,User_87,60+,disgust,1745866651,London,Germany
+523,User_29,50-59,fear,1745822137,Paris,France
+524,User_91,30-39,sad,1745657696,New York,Australia
+525,User_66,50-59,happy,1744649398,London,Japan
+526,User_84,60+,disgust,1745287638,Berlin,Germany
+527,User_28,10-19,surprise,1745314801,London,France
+528,User_32,20-29,happy,1745836563,Sydney,Germany
+529,User_22,<10,angry,1744851028,Tokyo,India
+530,User_55,<10,angry,1745128974,Mumbai,USA
+531,User_33,30-39,sad,1743628752,London,UK
+532,User_61,20-29,happy,1744077460,Berlin,France
+533,User_32,20-29,angry,1745470216,Sydney,Germany
+534,User_71,20-29,neutral,1743871488,London,UK
+535,User_26,40-49,disgust,1745157394,New York,UK
+536,User_58,40-49,neutral,1745579914,Tokyo,UK
+537,User_99,<10,neutral,1745509773,London,USA
+538,User_76,50-59,disgust,1744300897,Berlin,Germany
+539,User_8,10-19,angry,1745207949,Tokyo,Japan
+540,User_12,60+,fear,1743732899,Berlin,Japan
+541,User_15,10-19,happy,1744644676,New York,India
+542,User_56,40-49,fear,1745294987,New York,France
+543,User_37,20-29,angry,1744903844,Paris,Germany
+544,User_51,20-29,fear,1746015256,Mumbai,India
+545,User_63,30-39,fear,1745860252,London,Japan
+546,User_28,60+,angry,1746001447,London,Germany
+547,User_29,50-59,disgust,1744114188,Paris,France
+548,User_55,40-49,disgust,1745222626,Berlin,India
+549,User_4,<10,neutral,1745408443,Mumbai,Germany
+550,User_24,30-39,angry,1744375481,Mumbai,Japan
+551,User_16,40-49,angry,1744584666,Paris,India
+552,User_89,30-39,happy,1745115083,New York,USA
+553,User_80,10-19,fear,1743762708,London,Germany
+554,User_50,10-19,fear,1745088066,New York,UK
+555,User_86,50-59,disgust,1744770375,Berlin,Japan
+556,User_55,50-59,happy,1744645190,New York,France
+557,User_11,30-39,fear,1743933560,Mumbai,Australia
+558,User_43,30-39,fear,1745786313,London,USA
+559,User_3,50-59,neutral,1745038058,Tokyo,Japan
+560,User_11,60+,disgust,1744098386,Berlin,France
+561,User_53,20-29,happy,1744661740,Tokyo,Japan
+562,User_81,50-59,sad,1745048275,New York,Australia
+563,User_12,20-29,surprise,1743476273,Tokyo,France
+564,User_85,50-59,happy,1745897817,New York,UK
+565,User_74,20-29,fear,1743771102,Sydney,India
+566,User_91,30-39,neutral,1744882589,New York,Australia
+567,User_1,40-49,surprise,1743583450,Paris,Japan
+568,User_4,40-49,disgust,1744344308,Tokyo,India
+569,User_98,30-39,happy,1743543508,New York,Japan
+570,User_16,<10,angry,1743481140,Mumbai,France
+571,User_80,30-39,fear,1743933325,New York,India
+572,User_42,60+,angry,1745091229,London,Australia
+573,User_86,50-59,happy,1744194271,Berlin,Japan
+574,User_7,30-39,neutral,1744727114,Tokyo,UK
+575,User_92,20-29,disgust,1745162050,Tokyo,France
+576,User_32,20-29,fear,1745685175,Sydney,Germany
+577,User_78,40-49,sad,1745197695,Mumbai,France
+578,User_71,20-29,happy,1744986517,London,UK
+579,User_46,30-39,sad,1743839307,Paris,France
+580,User_42,60+,surprise,1743810631,London,Australia
+581,User_74,40-49,happy,1744145381,Tokyo,USA
+582,User_15,10-19,surprise,1743460401,New York,India
+583,User_9,<10,disgust,1743780801,Tokyo,UK
+584,User_28,10-19,happy,1745876585,London,France
+585,User_52,60+,fear,1744510310,Mumbai,India
+586,User_80,10-19,sad,1745401165,London,Germany
+587,User_15,50-59,neutral,1744310127,Berlin,Germany
+588,User_58,40-49,fear,1744666819,Tokyo,UK
+589,User_62,<10,neutral,1744660286,Sydney,Australia
+590,User_2,<10,surprise,1745799569,Paris,Germany
+591,User_4,50-59,neutral,1744699642,Berlin,Germany
+592,User_95,<10,surprise,1745141517,Berlin,Germany
+593,User_38,50-59,disgust,1745402329,Paris,Australia
+594,User_37,60+,neutral,1745770667,Sydney,India
+595,User_12,20-29,neutral,1744033546,Tokyo,France
+596,User_57,20-29,fear,1744178427,Sydney,Germany
+597,User_96,10-19,fear,1744405139,Paris,UK
+598,User_74,40-49,happy,1744146911,Tokyo,USA
+599,User_55,<10,happy,1744327972,Mumbai,USA
+600,User_70,40-49,fear,1744683959,Paris,France
+601,User_77,20-29,fear,1745412107,Mumbai,USA
+602,User_49,10-19,sad,1745837353,London,France
+603,User_4,50-59,happy,1744953738,Berlin,Germany
+604,User_28,60+,happy,1743682659,London,Germany
+605,User_29,50-59,neutral,1743841018,Paris,France
+606,User_87,60+,surprise,1744208067,London,Germany
+607,User_52,60+,disgust,1745634894,Mumbai,India
+608,User_15,10-19,neutral,1744482224,New York,India
+609,User_27,60+,neutral,1745294390,Paris,USA
+610,User_16,<10,disgust,1744406842,Mumbai,France
+611,User_73,10-19,disgust,1745559324,Sydney,Australia
+612,User_1,40-49,fear,1743924734,Paris,Japan
+613,User_27,60+,disgust,1743562240,Paris,USA
+614,User_56,20-29,happy,1746004503,Paris,Japan
+615,User_1,20-29,sad,1743936219,Tokyo,France
+616,User_86,50-59,happy,1743827651,Berlin,Japan
+617,User_8,10-19,surprise,1745765946,Tokyo,Japan
+618,User_16,40-49,neutral,1743558073,Paris,India
+619,User_20,30-39,sad,1745067639,London,USA
+620,User_77,40-49,angry,1744585147,Sydney,USA
+621,User_77,50-59,happy,1745111874,Paris,Japan
+622,User_55,40-49,surprise,1744713520,Berlin,India
+623,User_11,10-19,disgust,1744622174,Sydney,France
+624,User_46,30-39,happy,1745631580,Paris,France
+625,User_13,30-39,disgust,1746034249,Paris,France
+626,User_8,60+,fear,1744836561,Berlin,Australia
+627,User_15,50-59,surprise,1744611270,Berlin,Germany
+628,User_48,60+,angry,1745469672,London,India
+629,User_12,<10,surprise,1745089570,Paris,Australia
+630,User_9,20-29,fear,1744769871,Berlin,Australia
+631,User_10,30-39,fear,1745583837,Sydney,Japan
+632,User_64,50-59,happy,1745233057,Sydney,France
+633,User_49,40-49,fear,1744364297,Berlin,USA
+634,User_89,20-29,sad,1743876278,Sydney,UK
+635,User_87,60+,neutral,1745945640,London,Germany
+636,User_25,20-29,sad,1743526851,Tokyo,Germany
+637,User_96,10-19,angry,1745611473,Paris,UK
+638,User_12,<10,neutral,1745477802,Paris,Australia
+639,User_77,50-59,surprise,1744402133,Mumbai,Germany
+640,User_56,10-19,happy,1744213534,New York,Australia
+641,User_9,20-29,fear,1745590863,Berlin,Australia
+642,User_24,40-49,fear,1743961371,Mumbai,Japan
+643,User_30,30-39,sad,1744940111,Paris,Japan
+644,User_20,30-39,angry,1744511077,London,USA
+645,User_81,40-49,neutral,1743949506,Paris,France
+646,User_8,60+,happy,1743590511,London,USA
+647,User_36,20-29,angry,1744424756,Paris,France
+648,User_2,<10,disgust,1745063177,Mumbai,Japan
+649,User_12,<10,sad,1743832438,Paris,Australia
+650,User_19,30-39,surprise,1743742464,Sydney,Australia
+651,User_61,30-39,surprise,1745643139,London,UK
+652,User_58,20-29,neutral,1743990517,Mumbai,India
+653,User_61,60+,happy,1743826724,Tokyo,Germany
+654,User_3,50-59,surprise,1746030700,Tokyo,Japan
+655,User_96,10-19,surprise,1743687376,Paris,UK
+656,User_43,30-39,surprise,1744127144,London,USA
+657,User_4,40-49,disgust,1744094687,Tokyo,India
+658,User_86,10-19,happy,1745936152,Paris,France
+659,User_62,<10,happy,1745075478,Sydney,Australia
+660,User_58,40-49,fear,1743914700,Tokyo,UK
+661,User_20,30-39,neutral,1743826706,London,USA
+662,User_3,50-59,fear,1745469979,Tokyo,Japan
+663,User_55,30-39,surprise,1745028283,Paris,UK
+664,User_40,20-29,surprise,1744548259,Mumbai,India
+665,User_57,50-59,surprise,1745117535,New York,India
+666,User_95,30-39,disgust,1743886334,Sydney,India
+667,User_38,40-49,angry,1743796800,Berlin,India
+668,User_9,<10,happy,1744927251,Tokyo,UK
+669,User_4,<10,neutral,1745451745,Mumbai,Germany
+670,User_11,20-29,surprise,1744887941,Berlin,UK
+671,User_87,60+,neutral,1743974182,London,Germany
+672,User_62,<10,fear,1745879627,Berlin,Germany
+673,User_10,30-39,sad,1745511814,Sydney,Japan
+674,User_81,50-59,happy,1744548531,New York,Australia
+675,User_15,10-19,sad,1745521687,New York,India
+676,User_51,20-29,disgust,1745837774,Mumbai,India
+677,User_62,50-59,sad,1744027050,London,Australia
+678,User_25,20-29,sad,1745643020,Tokyo,Germany
+679,User_41,<10,surprise,1744089218,Sydney,UK
+680,User_95,<10,angry,1745288155,Berlin,Germany
+681,User_33,30-39,sad,1744973405,Berlin,Germany
+682,User_7,40-49,angry,1744859164,Paris,USA
+683,User_57,20-29,surprise,1744413059,Sydney,Germany
+684,User_57,40-49,happy,1745123501,Mumbai,Germany
+685,User_81,40-49,surprise,1745416612,Paris,France
+686,User_4,50-59,fear,1745331895,Berlin,Germany
+687,User_78,40-49,surprise,1743589816,Mumbai,France
+688,User_66,50-59,angry,1745175982,London,Japan
+689,User_16,40-49,sad,1745773536,Paris,India
+690,User_39,20-29,surprise,1744558801,Sydney,Australia
+691,User_55,50-59,disgust,1745327032,New York,France
+692,User_72,50-59,neutral,1745971808,Mumbai,France
+693,User_38,50-59,fear,1744916554,Paris,Australia
+694,User_52,20-29,happy,1745756559,New York,France
+695,User_6,60+,angry,1745297159,New York,UK
+696,User_100,30-39,fear,1743464637,New York,France
+697,User_39,30-39,disgust,1745426090,New York,UK
+698,User_53,60+,disgust,1745537509,Berlin,Japan
+699,User_89,20-29,happy,1743511658,Sydney,UK
+700,User_52,30-39,happy,1745364183,Paris,Australia
+701,User_15,10-19,sad,1744994999,New York,India
+702,User_61,20-29,disgust,1745956511,Berlin,France
+703,User_99,<10,happy,1744028294,London,USA
+704,User_25,20-29,neutral,1745705830,Tokyo,Germany
+705,User_37,50-59,angry,1745192014,Berlin,Australia
+706,User_32,20-29,disgust,1744401100,Sydney,Germany
+707,User_78,40-49,angry,1744425686,Mumbai,France
+708,User_15,10-19,fear,1743637055,New York,India
+709,User_58,60+,disgust,1745851272,New York,USA
+710,User_37,60+,neutral,1745052484,Sydney,India
+711,User_100,20-29,happy,1745600791,New York,Germany
+712,User_12,60+,fear,1745757123,Berlin,Japan
+713,User_13,30-39,fear,1743759878,Paris,France
+714,User_48,30-39,fear,1743726135,Mumbai,Japan
+715,User_30,10-19,angry,1745847849,Mumbai,Germany
+716,User_46,<10,surprise,1744481788,London,Australia
+717,User_11,30-39,fear,1743590462,Mumbai,Australia
+718,User_56,50-59,angry,1745868932,New York,USA
+719,User_59,<10,neutral,1744823516,Mumbai,USA
+720,User_58,20-29,neutral,1744880527,Mumbai,India
+721,User_9,<10,surprise,1744990966,Tokyo,UK
+722,User_42,60+,neutral,1744524725,London,Australia
+723,User_100,10-19,angry,1743556689,London,USA
+724,User_48,60+,neutral,1745258594,London,India
+725,User_53,60+,surprise,1744704086,Berlin,Japan
+726,User_24,40-49,sad,1744186726,Mumbai,Japan
+727,User_48,30-39,neutral,1744135513,Mumbai,Japan
+728,User_49,40-49,sad,1744751083,Berlin,USA
+729,User_56,20-29,neutral,1745095988,Paris,Japan
+730,User_12,<10,surprise,1744977671,Paris,Australia
+731,User_12,20-29,sad,1743651117,Tokyo,France
+732,User_57,40-49,happy,1744241399,Mumbai,Germany
+733,User_58,10-19,neutral,1743465901,Paris,UK
+734,User_30,10-19,sad,1744498888,Mumbai,Germany
+735,User_77,40-49,fear,1743856403,Sydney,USA
+736,User_38,40-49,neutral,1743651578,Berlin,India
+737,User_30,10-19,sad,1744409675,Mumbai,Germany
+738,User_42,60+,neutral,1745306580,London,Australia
+739,User_10,50-59,disgust,1744948511,Sydney,Australia
+740,User_15,10-19,disgust,1743625698,New York,India
+741,User_51,20-29,fear,1744675498,Mumbai,India
+742,User_56,50-59,fear,1745882602,New York,USA
+743,User_72,60+,neutral,1745865473,Tokyo,USA
+744,User_37,20-29,happy,1743918019,Paris,Germany
+745,User_24,40-49,neutral,1744867970,Mumbai,Japan
+746,User_2,<10,disgust,1744518278,London,UK
+747,User_11,20-29,happy,1745100056,Berlin,UK
+748,User_49,40-49,sad,1745778148,Berlin,USA
+749,User_2,<10,fear,1746034479,Mumbai,Japan
+750,User_13,30-39,sad,1743771569,Paris,France
+751,User_19,50-59,fear,1744670578,New York,USA
+752,User_61,60+,sad,1744115670,Tokyo,Germany
+753,User_95,<10,angry,1744164261,Berlin,Germany
+754,User_13,30-39,fear,1744073616,Paris,France
+755,User_100,<10,surprise,1745336214,Berlin,India
+756,User_66,20-29,fear,1743970273,Sydney,Germany
+757,User_18,<10,sad,1745979087,Mumbai,Japan
+758,User_76,50-59,disgust,1745822493,Berlin,Germany
+759,User_56,50-59,surprise,1744394627,New York,USA
+760,User_58,40-49,happy,1743646150,Tokyo,UK
+761,User_80,30-39,fear,1744023571,New York,India
+762,User_99,10-19,fear,1745423287,Tokyo,Japan
+763,User_71,40-49,neutral,1744187766,Sydney,Germany
+764,User_27,60+,surprise,1745140897,Paris,USA
+765,User_100,10-19,fear,1744385926,London,USA
+766,User_24,40-49,surprise,1745711470,Mumbai,Japan
+767,User_37,40-49,angry,1745662939,Berlin,Australia
+768,User_3,60+,fear,1745087023,New York,India
+769,User_49,50-59,disgust,1745851466,Paris,India
+770,User_57,40-49,disgust,1743476885,Sydney,Australia
+771,User_46,30-39,angry,1743851426,Paris,France
+772,User_34,30-39,happy,1744832198,London,Australia
+773,User_2,<10,happy,1744165655,London,UK
+774,User_73,10-19,sad,1744802733,Sydney,Australia
+775,User_41,60+,sad,1745318720,Sydney,Japan
+776,User_70,40-49,surprise,1745923209,Paris,France
+777,User_18,40-49,fear,1744316834,London,India
+778,User_10,60+,fear,1744047888,Sydney,France
+779,User_77,20-29,disgust,1744274998,Mumbai,USA
+780,User_30,30-39,neutral,1743517058,Paris,Japan
+781,User_26,40-49,angry,1744248772,New York,UK
+782,User_56,10-19,fear,1744791104,New York,Australia
+783,User_15,60+,angry,1744856553,Sydney,Japan
+784,User_11,30-39,neutral,1744459888,Mumbai,Australia
+785,User_22,<10,surprise,1745543432,Tokyo,India
+786,User_89,20-29,surprise,1744257680,Sydney,UK
+787,User_95,<10,neutral,1744852519,Berlin,Germany
+788,User_24,50-59,happy,1746031296,Berlin,France
+789,User_19,30-39,surprise,1744162159,Sydney,Australia
+790,User_99,<10,disgust,1744173770,London,USA
+791,User_96,10-19,neutral,1745355074,Paris,UK
+792,User_66,50-59,sad,1744166169,London,Japan
+793,User_58,10-19,fear,1744369654,Paris,UK
+794,User_15,50-59,disgust,1745833749,Berlin,Germany
+795,User_56,10-19,disgust,1744501592,New York,Australia
+796,User_2,<10,fear,1743530395,London,UK
+797,User_89,30-39,surprise,1745266250,New York,USA
+798,User_40,20-29,surprise,1744906869,Mumbai,India
+799,User_22,<10,surprise,1745785069,Paris,Australia
+800,User_39,30-39,disgust,1745440439,New York,UK
+801,User_56,20-29,surprise,1743566412,Paris,Japan
+802,User_28,10-19,angry,1744785261,London,France
+803,User_46,30-39,happy,1744714392,Paris,Japan
+804,User_100,20-29,sad,1744420969,New York,Germany
+805,User_55,50-59,sad,1744375756,New York,France
+806,User_48,60+,neutral,1745679047,London,India
+807,User_57,40-49,angry,1744542830,Sydney,Australia
+808,User_2,<10,disgust,1743926012,London,UK
+809,User_56,10-19,fear,1745297128,New York,Australia
+810,User_55,50-59,neutral,1745770102,New York,France
+811,User_46,40-49,neutral,1744347899,Berlin,India
+812,User_71,40-49,happy,1745853220,Sydney,Germany
+813,User_95,30-39,fear,1744180792,Sydney,India
+814,User_11,<10,sad,1745420842,Paris,India
+815,User_8,60+,sad,1743525106,London,USA
+816,User_29,50-59,surprise,1745007088,Paris,France
+817,User_46,60+,sad,1744831354,New York,UK
+818,User_50,10-19,surprise,1744294607,New York,UK
+819,User_76,50-59,disgust,1744660444,Berlin,Germany
+820,User_49,40-49,happy,1744110171,Berlin,USA
+821,User_36,20-29,sad,1745062658,Paris,France
+822,User_46,30-39,disgust,1744236034,Paris,Japan
+823,User_53,50-59,happy,1745088952,London,UK
+824,User_55,<10,sad,1744995497,Mumbai,USA
+825,User_30,30-39,sad,1744835552,Paris,Japan
+826,User_91,30-39,sad,1745414454,New York,Australia
+827,User_16,40-49,happy,1743732190,Paris,India
+828,User_78,40-49,neutral,1745384462,Mumbai,France
+829,User_76,50-59,happy,1744619357,Berlin,Germany
+830,User_55,50-59,surprise,1743513079,New York,France
+831,User_37,60+,neutral,1744993289,Sydney,India
+832,User_96,50-59,sad,1744119237,Sydney,India
+833,User_56,10-19,angry,1745594039,New York,Australia
+834,User_46,40-49,angry,1743760458,Berlin,India
+835,User_59,<10,surprise,1745609039,Mumbai,USA
+836,User_39,20-29,neutral,1745450225,Paris,UK
+837,User_38,40-49,angry,1744601716,Berlin,India
+838,User_19,10-19,happy,1745251758,Sydney,Germany
+839,User_8,10-19,happy,1743560942,Tokyo,Japan
+840,User_46,40-49,surprise,1744960494,Berlin,India
+841,User_80,10-19,neutral,1744131220,London,Germany
+842,User_26,20-29,neutral,1745383457,Tokyo,Australia
+843,User_24,40-49,happy,1745861864,Mumbai,Japan
+844,User_9,<10,disgust,1744190503,Tokyo,UK
+845,User_55,30-39,neutral,1745071342,Paris,UK
+846,User_100,20-29,happy,1745068143,New York,Germany
+847,User_39,20-29,surprise,1745200023,Paris,UK
+848,User_94,<10,surprise,1744461457,Sydney,Japan
+849,User_28,60+,neutral,1743499133,New York,France
+850,User_61,50-59,disgust,1744509834,London,France
+851,User_33,<10,neutral,1745735263,Sydney,Japan
+852,User_77,20-29,surprise,1744379262,Mumbai,USA
+853,User_19,10-19,surprise,1744437005,Sydney,Germany
+854,User_84,60+,sad,1743693914,Berlin,Germany
+855,User_61,20-29,sad,1745035972,Berlin,France
+856,User_16,30-39,surprise,1744336575,Tokyo,India
+857,User_73,10-19,surprise,1745565631,Sydney,Australia
+858,User_62,<10,sad,1743532099,Berlin,Germany
+859,User_56,10-19,neutral,1744197508,New York,Australia
+860,User_84,60+,angry,1744756259,Berlin,Germany
+861,User_38,10-19,neutral,1743895274,Berlin,India
+862,User_43,60+,fear,1745864498,London,Japan
+863,User_11,20-29,sad,1745554211,Berlin,UK
+864,User_4,50-59,surprise,1743648269,Berlin,Germany
+865,User_17,<10,disgust,1745712528,Tokyo,France
+866,User_52,20-29,surprise,1743697427,New York,France
+867,User_55,40-49,happy,1745647907,Berlin,India
+868,User_39,20-29,happy,1743806579,Paris,UK
+869,User_74,60+,angry,1744822011,New York,France
+870,User_28,60+,fear,1744969174,London,Germany
+871,User_17,<10,happy,1745678130,Tokyo,France
+872,User_62,50-59,neutral,1745047892,London,Australia
+873,User_2,<10,sad,1744277696,Mumbai,Japan
+874,User_63,10-19,angry,1744280929,Mumbai,USA
+875,User_22,<10,surprise,1743772727,Tokyo,Australia
+876,User_36,20-29,fear,1743893018,Paris,France
+877,User_15,60+,neutral,1745888652,Sydney,Japan
+878,User_74,20-29,fear,1744419247,Sydney,India
+879,User_52,20-29,happy,1743670096,New York,France
+880,User_77,20-29,happy,1745673187,Mumbai,USA
+881,User_96,10-19,neutral,1744579653,Paris,UK
+882,User_77,<10,happy,1744102715,London,USA
+883,User_59,<10,neutral,1744776592,Mumbai,USA
+884,User_80,30-39,surprise,1744678505,New York,India
+885,User_39,20-29,angry,1744936782,Paris,UK
+886,User_56,20-29,surprise,1743628856,Paris,Japan
+887,User_38,10-19,fear,1744278918,Berlin,India
+888,User_30,10-19,happy,1744170524,Mumbai,Germany
+889,User_80,10-19,happy,1744601151,London,Germany
+890,User_100,<10,sad,1745163120,Berlin,India
+891,User_2,30-39,angry,1744851388,Paris,India
+892,User_19,10-19,fear,1744436492,Berlin,India
+893,User_9,<10,angry,1743766328,Tokyo,UK
+894,User_64,50-59,fear,1745420582,Sydney,France
+895,User_49,40-49,disgust,1744711924,Berlin,USA
+896,User_37,50-59,fear,1745714253,Berlin,Australia
+897,User_33,30-39,sad,1745438058,Berlin,Germany
+898,User_81,50-59,fear,1745361857,New York,Australia
+899,User_100,20-29,sad,1745097363,New York,Germany
+900,User_74,20-29,disgust,1745193082,Sydney,India
+901,User_39,20-29,neutral,1745173580,Paris,UK
+902,User_3,30-39,neutral,1745757244,Tokyo,USA
+903,User_77,20-29,neutral,1744519397,Mumbai,USA
+904,User_2,<10,happy,1745405222,Paris,Germany
+905,User_11,20-29,surprise,1745751227,Berlin,UK
+906,User_74,40-49,fear,1744764801,Tokyo,USA
+907,User_2,<10,sad,1744469045,London,UK
+908,User_19,50-59,sad,1745191040,New York,USA
+909,User_17,<10,neutral,1745209457,Tokyo,France
+910,User_8,60+,happy,1744177479,London,USA
+911,User_10,30-39,neutral,1745688790,Sydney,Japan
+912,User_94,<10,angry,1743554018,Sydney,Japan
+913,User_55,40-49,happy,1743768736,Berlin,India
+914,User_87,50-59,disgust,1744041478,Tokyo,UK
+915,User_29,50-59,surprise,1745017206,Paris,France
+916,User_34,30-39,fear,1745532605,London,Australia
+917,User_16,40-49,surprise,1744090953,Paris,India
+918,User_80,10-19,angry,1744950397,London,Germany
+919,User_8,10-19,sad,1743938028,Tokyo,Japan
+920,User_41,60+,angry,1744385177,Sydney,Japan
+921,User_8,60+,neutral,1744078381,Berlin,Australia
+922,User_99,10-19,angry,1745281091,Tokyo,Japan
+923,User_18,40-49,happy,1744521703,London,India
+924,User_58,20-29,disgust,1744538814,Mumbai,India
+925,User_80,10-19,surprise,1745900461,London,Germany
+926,User_7,30-39,disgust,1743689704,Tokyo,UK
+927,User_2,30-39,neutral,1745526564,Paris,India
+928,User_22,<10,happy,1743841039,Tokyo,Australia
+929,User_82,50-59,neutral,1743668434,Tokyo,France
+930,User_42,60+,happy,1744728713,London,Australia
+931,User_15,50-59,surprise,1745679065,Berlin,Germany
+932,User_32,20-29,sad,1745164269,Sydney,Germany
+933,User_12,20-29,happy,1744799000,Tokyo,France
+934,User_99,<10,fear,1744130105,London,USA
+935,User_56,20-29,angry,1744759276,Paris,Japan
+936,User_38,10-19,angry,1743795592,Berlin,India
+937,User_18,40-49,fear,1743636366,London,India
+938,User_58,10-19,disgust,1744545295,Paris,UK
+939,User_30,10-19,surprise,1745153759,Berlin,France
+940,User_20,30-39,happy,1745605208,London,USA
+941,User_62,50-59,angry,1745640323,London,Australia
+942,User_11,50-59,fear,1744985836,Berlin,India
+943,User_91,30-39,fear,1743983899,New York,Australia
+944,User_39,30-39,sad,1744392617,New York,UK
+945,User_21,20-29,sad,1744942020,Tokyo,Japan
+946,User_87,50-59,happy,1745933778,Tokyo,UK
+947,User_10,60+,surprise,1745740217,Sydney,France
+948,User_100,10-19,surprise,1744892601,London,USA
+949,User_19,10-19,angry,1744986169,Berlin,India
+950,User_39,40-49,happy,1743727462,Mumbai,USA
+951,User_72,60+,surprise,1744842706,Tokyo,USA
+952,User_2,<10,neutral,1744254140,Paris,Germany
+953,User_55,<10,surprise,1743653685,Mumbai,USA
+954,User_28,60+,happy,1744186754,London,Germany
+955,User_81,40-49,sad,1745763112,Paris,France
+956,User_49,10-19,surprise,1744157038,London,France
+957,User_32,60+,angry,1746007344,New York,Japan
+958,User_57,40-49,fear,1744867693,Sydney,Australia
+959,User_26,20-29,disgust,1743544339,Tokyo,Australia
+960,User_100,10-19,disgust,1744306839,London,USA
+961,User_89,20-29,sad,1743543722,Sydney,UK
+962,User_12,20-29,disgust,1744242376,Tokyo,France
+963,User_10,50-59,fear,1744241258,Sydney,Australia
+964,User_77,50-59,angry,1744871949,Mumbai,Germany
+965,User_39,30-39,happy,1745926094,New York,UK
+966,User_57,50-59,happy,1745578812,New York,India
+967,User_42,60+,disgust,1745693849,London,Australia
+968,User_27,30-39,fear,1744430448,Paris,Australia
+969,User_62,<10,fear,1746008298,Berlin,Germany
+970,User_48,30-39,disgust,1744091766,Mumbai,Japan
+971,User_3,60+,sad,1745465461,New York,India
+972,User_4,40-49,surprise,1745553360,Tokyo,India
+973,User_59,<10,fear,1744917449,Mumbai,USA
+974,User_4,<10,disgust,1743614603,Mumbai,Germany
+975,User_99,10-19,neutral,1744882856,Tokyo,Japan
+976,User_9,20-29,neutral,1745917146,Berlin,Australia
+977,User_1,20-29,surprise,1744445914,Tokyo,France
+978,User_73,10-19,angry,1745854946,Sydney,Australia
+979,User_74,40-49,disgust,1743809198,Tokyo,USA
+980,User_46,30-39,angry,1744864303,Paris,France
+981,User_19,10-19,happy,1744789783,Berlin,India
+982,User_27,30-39,surprise,1743680742,Paris,Australia
+983,User_24,50-59,happy,1744686796,Berlin,France
+984,User_99,10-19,angry,1744882958,Tokyo,Japan
+985,User_11,30-39,angry,1745956344,Mumbai,Australia
+986,User_87,50-59,sad,1745061694,Tokyo,UK
+987,User_10,60+,surprise,1744672127,Sydney,France
+988,User_66,<10,neutral,1744444499,London,USA
+989,User_62,<10,fear,1744878769,Sydney,Australia
+990,User_8,60+,surprise,1744552801,Berlin,Australia
+991,User_3,60+,surprise,1743573661,New York,India
+992,User_51,20-29,sad,1744957191,Mumbai,India
+993,User_80,10-19,angry,1746031159,London,Germany
+994,User_15,10-19,disgust,1743970213,New York,India
+995,User_12,20-29,disgust,1744495597,Tokyo,France
+996,User_71,20-29,angry,1745175722,London,UK
+997,User_58,20-29,fear,1745655426,Mumbai,India
+998,User_98,30-39,neutral,1743553335,Paris,Australia
+999,User_64,50-59,neutral,1745876510,Sydney,France
+1000,User_80,10-19,sad,1743657073,London,Germany
+1001,User_59,<10,happy,1745924442,Mumbai,USA
+1002,User_16,40-49,fear,1745294462,Paris,India
+1003,User_71,<10,surprise,1744058818,Mumbai,USA
+1004,User_26,20-29,sad,1743688277,Tokyo,Australia
+1005,User_46,30-39,neutral,1744637467,Paris,France
+1006,User_46,30-39,surprise,1745709634,Paris,France
+1007,User_71,<10,happy,1744571528,Mumbai,USA
+1008,User_16,40-49,neutral,1744083707,Paris,India
+1009,User_77,20-29,angry,1745171253,Mumbai,USA
+1010,User_34,30-39,fear,1743605993,London,Australia
+1011,User_3,50-59,neutral,1744800765,Tokyo,Japan
+1012,User_22,<10,fear,1744195868,Tokyo,Australia
+1013,User_49,40-49,angry,1744560293,Berlin,USA
+1014,User_46,30-39,sad,1745708336,Paris,France
+1015,User_27,60+,disgust,1744760268,Paris,USA
+1016,User_91,30-39,happy,1743991884,New York,Australia
+1017,User_61,30-39,fear,1744238718,London,UK
+1018,User_2,<10,surprise,1744281789,Paris,Germany
+1019,User_8,10-19,fear,1746022058,Tokyo,Japan
+1020,User_57,40-49,surprise,1744353629,Mumbai,Germany
+1021,User_19,10-19,sad,1745380656,Berlin,India
+1022,User_99,10-19,happy,1745410802,Tokyo,Japan
+1023,User_40,20-29,disgust,1743845020,Mumbai,India
+1024,User_17,<10,sad,1744911553,Tokyo,France
+1025,User_2,<10,disgust,1743647375,Paris,Germany
+1026,User_11,60+,neutral,1744713153,Berlin,France
+1027,User_39,10-19,sad,1743897026,Paris,UK
+1028,User_2,<10,fear,1744062168,London,UK
+1029,User_48,60+,surprise,1744317033,London,India
+1030,User_4,50-59,fear,1745733468,Berlin,Germany
+1031,User_62,<10,fear,1743872547,Sydney,Australia
+1032,User_49,40-49,surprise,1745447731,Berlin,USA
+1033,User_30,60+,disgust,1745737595,Paris,Australia
+1034,User_16,<10,neutral,1744934947,Mumbai,France
+1035,User_22,<10,fear,1743845649,Paris,Australia
+1036,User_16,40-49,disgust,1744775998,Paris,India
+1037,User_19,50-59,disgust,1743530410,New York,USA
+1038,User_71,40-49,surprise,1743611064,Sydney,Germany
+1039,User_19,10-19,fear,1743712939,Paris,Japan
+1040,User_77,50-59,disgust,1745219119,Paris,Japan
+1041,User_64,50-59,angry,1745768156,Sydney,France
+1042,User_52,60+,neutral,1744383142,Mumbai,India
+1043,User_19,10-19,happy,1744642429,Paris,Japan
+1044,User_77,50-59,disgust,1745483421,Mumbai,Germany
+1045,User_32,60+,happy,1743547227,New York,Japan
+1046,User_39,20-29,angry,1745384151,Paris,UK
+1047,User_16,40-49,fear,1744243514,Paris,India
+1048,User_33,30-39,fear,1744095023,London,UK
+1049,User_96,10-19,fear,1744332210,Paris,UK
+1050,User_100,30-39,surprise,1744313773,New York,France
+1051,User_46,60+,fear,1743640026,New York,UK
+1052,User_24,50-59,neutral,1745504875,Berlin,France
+1053,User_24,40-49,disgust,1744955723,Mumbai,Japan
+1054,User_66,<10,fear,1743534746,London,USA
+1055,User_61,60+,surprise,1745207569,Tokyo,Germany
+1056,User_19,50-59,sad,1744080930,New York,USA
+1057,User_72,50-59,neutral,1744522911,Mumbai,France
+1058,User_100,<10,happy,1745221177,Berlin,India
+1059,User_89,20-29,sad,1745221983,Sydney,UK
+1060,User_24,50-59,sad,1745944664,Berlin,France
+1061,User_46,30-39,fear,1744285586,Paris,Japan
+1062,User_94,<10,surprise,1743503409,Sydney,Japan
+1063,User_55,50-59,neutral,1744297744,New York,France
+1064,User_11,<10,angry,1744765140,Paris,India
+1065,User_55,30-39,disgust,1743924523,Paris,UK
+1066,User_72,60+,neutral,1744795507,Tokyo,USA
+1067,User_55,50-59,disgust,1743891499,New York,France
+1068,User_81,50-59,sad,1743900876,New York,Australia
+1069,User_39,10-19,happy,1744224458,Paris,UK
+1070,User_6,60+,sad,1743983904,New York,UK
+1071,User_14,60+,surprise,1744954836,London,France
+1072,User_46,30-39,surprise,1744273718,Paris,Japan
+1073,User_2,30-39,angry,1745592501,Paris,India
+1074,User_100,30-39,sad,1745237259,New York,France
+1075,User_12,20-29,disgust,1743489064,Tokyo,France
+1076,User_11,60+,angry,1744808191,Berlin,France
+1077,User_6,60+,sad,1744688590,New York,UK
+1078,User_85,50-59,sad,1744288929,New York,UK
+1079,User_7,30-39,surprise,1745404651,Tokyo,UK
+1080,User_95,<10,angry,1745247077,Berlin,Germany
+1081,User_49,50-59,happy,1743956658,Paris,India
+1082,User_77,50-59,sad,1745277850,Paris,Japan
+1083,User_77,<10,surprise,1745369690,Mumbai,Australia
+1084,User_61,30-39,angry,1743663242,London,UK
+1085,User_99,<10,fear,1743507790,London,USA
+1086,User_77,50-59,sad,1744406342,Mumbai,Germany
+1087,User_8,60+,sad,1744735440,London,USA
+1088,User_32,60+,neutral,1745135868,New York,Japan
+1089,User_18,<10,neutral,1745191526,Mumbai,Japan
+1090,User_58,60+,angry,1745401859,New York,USA
+1091,User_72,50-59,sad,1745287109,Mumbai,France
+1092,User_41,<10,disgust,1744827001,Sydney,UK
+1093,User_38,10-19,happy,1744480480,Berlin,India
+1094,User_50,10-19,surprise,1744255509,New York,UK
+1095,User_37,60+,sad,1744476135,Sydney,India
+1096,User_57,20-29,happy,1743806056,Sydney,Germany
+1097,User_33,30-39,surprise,1744916571,London,UK
+1098,User_46,40-49,surprise,1743690860,Berlin,India
+1099,User_40,20-29,disgust,1745706884,Mumbai,India
+1100,User_86,10-19,sad,1745193211,Paris,France
+1101,User_2,30-39,disgust,1743607813,Paris,India
+1102,User_49,10-19,sad,1745891832,London,France
+1103,User_77,<10,neutral,1745247726,Mumbai,Australia
+1104,User_46,<10,sad,1745899426,London,Australia
+1105,User_12,20-29,neutral,1745311139,Tokyo,France
+1106,User_51,60+,happy,1745837105,Berlin,India
+1107,User_72,60+,sad,1743520326,Tokyo,USA
+1108,User_77,40-49,angry,1743535041,Sydney,USA
+1109,User_3,30-39,sad,1745573620,Tokyo,USA
+1110,User_49,50-59,surprise,1744570963,Paris,India
+1111,User_74,20-29,surprise,1745738149,Sydney,India
+1112,User_57,50-59,happy,1745749171,New York,India
+1113,User_58,60+,disgust,1744606230,New York,USA
+1114,User_19,10-19,fear,1744225266,Berlin,India
+1115,User_22,<10,happy,1743689725,Tokyo,India
+1116,User_2,<10,surprise,1745405498,Paris,Germany
+1117,User_100,10-19,disgust,1743696001,London,USA
+1118,User_63,30-39,angry,1745619720,London,Japan
+1119,User_48,60+,angry,1744617079,London,India
+1120,User_100,30-39,surprise,1744362218,New York,France
+1121,User_80,10-19,disgust,1745750451,London,Germany
+1122,User_29,50-59,neutral,1744545259,Paris,France
+1123,User_9,20-29,surprise,1743807767,Berlin,Australia
+1124,User_15,60+,disgust,1743483672,Sydney,Japan
+1125,User_45,60+,fear,1744696325,Mumbai,Japan
+1126,User_4,40-49,disgust,1745141655,Tokyo,India
+1127,User_37,30-39,disgust,1745178141,Tokyo,India
+1128,User_62,<10,fear,1744535550,Sydney,Australia
+1129,User_4,40-49,surprise,1745067310,Tokyo,India
+1130,User_57,20-29,fear,1745405705,Sydney,Germany
+1131,User_55,30-39,fear,1745938105,Paris,UK
+1132,User_4,<10,neutral,1745289623,Mumbai,Germany
+1133,User_59,<10,surprise,1744577586,Mumbai,USA
+1134,User_13,30-39,happy,1745947514,Paris,France
+1135,User_53,50-59,neutral,1745018534,London,UK
+1136,User_15,10-19,angry,1744411037,New York,India
+1137,User_100,30-39,surprise,1745044539,New York,France
+1138,User_40,20-29,angry,1743535565,Mumbai,India
+1139,User_56,50-59,surprise,1745765105,New York,USA
+1140,User_51,60+,fear,1744407682,Berlin,India
+1141,User_10,30-39,neutral,1745954339,Sydney,Japan
+1142,User_39,30-39,sad,1745131734,New York,UK
+1143,User_22,<10,neutral,1745898520,Paris,Australia
+1144,User_63,30-39,neutral,1743589636,London,Japan
+1145,User_77,<10,neutral,1745334852,London,USA
+1146,User_66,50-59,fear,1743527785,London,Japan
+1147,User_81,50-59,angry,1745715377,New York,Australia
+1148,User_7,30-39,angry,1743483126,Tokyo,UK
+1149,User_39,10-19,fear,1743553803,Paris,UK
+1150,User_62,<10,sad,1745587799,Berlin,Germany
+1151,User_59,<10,disgust,1744365221,Mumbai,USA
+1152,User_37,20-29,surprise,1745757353,Paris,Germany
+1153,User_36,20-29,angry,1744123608,Paris,France
+1154,User_26,20-29,angry,1744378793,Tokyo,Australia
+1155,User_22,<10,angry,1743578664,Tokyo,India
+1156,User_52,30-39,happy,1743945066,Paris,Australia
+1157,User_41,60+,sad,1744084813,Sydney,Japan
+1158,User_10,50-59,surprise,1745303258,Sydney,Australia
+1159,User_37,60+,neutral,1744435207,Sydney,India
+1160,User_15,10-19,disgust,1745039987,New York,India
+1161,User_66,50-59,surprise,1745654749,London,Japan
+1162,User_57,40-49,sad,1745046870,Sydney,Australia
+1163,User_38,50-59,fear,1744857790,Paris,Australia
+1164,User_63,10-19,disgust,1746012583,Mumbai,USA
+1165,User_66,20-29,surprise,1744362628,Sydney,Germany
+1166,User_81,40-49,surprise,1744162260,Tokyo,Japan
+1167,User_62,<10,fear,1744995752,Sydney,Australia
+1168,User_99,10-19,happy,1744883373,Tokyo,Japan
+1169,User_46,<10,neutral,1744933469,London,Australia
+1170,User_11,60+,neutral,1743548608,Berlin,France
+1171,User_58,60+,fear,1744086875,New York,USA
+1172,User_51,20-29,disgust,1745067875,Mumbai,India
+1173,User_16,20-29,happy,1744204037,Berlin,USA
+1174,User_13,30-39,disgust,1743738389,Paris,France
+1175,User_2,<10,neutral,1744451521,London,UK
+1176,User_4,50-59,surprise,1745641694,Berlin,Germany
+1177,User_56,20-29,sad,1745156983,Paris,Japan
+1178,User_95,<10,neutral,1745448891,Berlin,Germany
+1179,User_100,10-19,surprise,1744657763,London,USA
+1180,User_57,40-49,surprise,1743540651,Sydney,Australia
+1181,User_3,50-59,surprise,1743901375,Tokyo,Japan
+1182,User_43,30-39,sad,1746027342,London,USA
+1183,User_74,40-49,fear,1744284179,Tokyo,USA
+1184,User_32,60+,disgust,1743457542,New York,Japan
+1185,User_19,30-39,neutral,1744655260,Sydney,Australia
+1186,User_18,40-49,fear,1744526825,London,India
+1187,User_56,50-59,fear,1743478461,New York,USA
+1188,User_18,40-49,happy,1744707127,London,India
+1189,User_27,30-39,happy,1745238520,Paris,Australia
+1190,User_2,30-39,disgust,1744511247,Paris,India
+1191,User_1,40-49,disgust,1743993719,Paris,Japan
+1192,User_19,30-39,happy,1745501957,Sydney,Australia
+1193,User_77,50-59,disgust,1743872447,Mumbai,Germany
+1194,User_3,50-59,angry,1744219121,Tokyo,Japan
+1195,User_51,60+,fear,1745535695,Berlin,India
+1196,User_100,10-19,sad,1744488558,London,USA
+1197,User_12,<10,disgust,1745403706,Paris,Australia
+1198,User_98,30-39,surprise,1744030590,New York,Japan
+1199,User_74,20-29,angry,1745563560,Sydney,India
+1200,User_24,40-49,surprise,1745215214,Mumbai,Japan
+1201,User_41,60+,angry,1744527336,Sydney,Japan
+1202,User_16,40-49,sad,1744116523,Paris,India
+1203,User_28,10-19,sad,1745822103,London,France
+1204,User_86,10-19,fear,1745616289,Paris,France
+1205,User_92,20-29,disgust,1745155973,Tokyo,France
+1206,User_28,60+,fear,1745603089,New York,France
+1207,User_77,20-29,sad,1743703183,Mumbai,USA
+1208,User_6,60+,happy,1745921247,New York,UK
+1209,User_11,50-59,sad,1745721106,Berlin,India
+1210,User_73,10-19,neutral,1744639112,Sydney,Australia
+1211,User_42,60+,disgust,1744457186,London,Australia
+1212,User_16,30-39,fear,1745967786,Tokyo,India
+1213,User_74,60+,surprise,1744656000,New York,France
+1214,User_71,20-29,fear,1744213214,London,UK
+1215,User_84,60+,happy,1743800637,Berlin,Germany
+1216,User_85,50-59,neutral,1745153914,New York,UK
+1217,User_9,20-29,angry,1744558581,Berlin,Australia
+1218,User_58,40-49,disgust,1744533562,Tokyo,UK
+1219,User_8,60+,disgust,1745546784,London,USA
+1220,User_22,<10,surprise,1743792219,Tokyo,Australia
+1221,User_81,50-59,angry,1744586098,New York,Australia
+1222,User_46,30-39,disgust,1743642319,Paris,Japan
+1223,User_22,<10,disgust,1744069191,Paris,Australia
+1224,User_56,20-29,fear,1743558926,Paris,Japan
+1225,User_72,50-59,happy,1743694752,Mumbai,France
+1226,User_28,60+,disgust,1743656670,London,Germany
+1227,User_4,50-59,angry,1743966540,Berlin,Germany
+1228,User_10,60+,angry,1745565433,Sydney,France
+1229,User_19,10-19,surprise,1743790970,Paris,Japan
+1230,User_87,60+,angry,1743812690,London,Germany
+1231,User_2,30-39,surprise,1745776343,Paris,India
+1232,User_32,60+,fear,1744414730,New York,Japan
+1233,User_25,10-19,neutral,1745692349,Tokyo,Germany
+1234,User_57,50-59,fear,1744419068,New York,India
+1235,User_58,40-49,angry,1743972160,Tokyo,UK
+1236,User_9,<10,fear,1743721309,Tokyo,UK
+1237,User_40,40-49,sad,1745292695,Berlin,India
+1238,User_64,50-59,happy,1744143481,Sydney,France
+1239,User_11,20-29,disgust,1744189876,New York,India
+1240,User_24,40-49,fear,1743575587,Mumbai,Japan
+1241,User_84,60+,disgust,1745048704,Berlin,Germany
+1242,User_2,<10,disgust,1744883092,Mumbai,Japan
+1243,User_7,30-39,surprise,1744804852,Tokyo,UK
+1244,User_19,10-19,fear,1745895603,Sydney,Germany
+1245,User_55,50-59,disgust,1743782382,New York,France
+1246,User_76,50-59,happy,1744924724,Berlin,Germany
+1247,User_38,40-49,surprise,1745203967,Berlin,India
+1248,User_20,30-39,happy,1744179182,London,USA
+1249,User_76,50-59,neutral,1744626867,Berlin,Germany
+1250,User_38,50-59,sad,1745590574,Paris,Australia
+1251,User_33,30-39,fear,1743971425,Berlin,Germany
+1252,User_52,60+,disgust,1744621048,Mumbai,India
+1253,User_2,<10,disgust,1744045967,Mumbai,Japan
+1254,User_50,10-19,neutral,1744768489,New York,UK
+1255,User_9,<10,happy,1745734931,Tokyo,UK
+1256,User_43,30-39,sad,1743840514,London,USA
+1257,User_58,40-49,neutral,1745260211,Tokyo,UK
+1258,User_49,40-49,surprise,1743478723,Berlin,USA
+1259,User_80,10-19,disgust,1745206581,London,Germany
+1260,User_28,10-19,sad,1744860678,London,France
+1261,User_37,40-49,sad,1745848858,Berlin,Australia
+1262,User_2,30-39,disgust,1743869071,Paris,India
+1263,User_38,50-59,angry,1744311570,Paris,Australia
+1264,User_39,40-49,angry,1745349063,Mumbai,USA
+1265,User_58,40-49,angry,1744358817,Tokyo,UK
+1266,User_71,20-29,disgust,1745120199,London,UK
+1267,User_15,60+,fear,1745113096,Sydney,Japan
+1268,User_71,20-29,surprise,1744468019,London,UK
+1269,User_98,30-39,sad,1744487586,Paris,Australia
+1270,User_4,40-49,happy,1745354353,Tokyo,India
+1271,User_37,40-49,happy,1745405695,Berlin,Australia
+1272,User_80,30-39,sad,1745431700,New York,India
+1273,User_30,10-19,neutral,1744343963,Mumbai,Germany
+1274,User_46,<10,angry,1744576770,London,Australia
+1275,User_85,50-59,neutral,1743944810,New York,UK
+1276,User_21,20-29,fear,1745836950,Tokyo,Japan
+1277,User_25,10-19,surprise,1745631990,Tokyo,Germany
+1278,User_12,<10,neutral,1745266500,Paris,Australia
+1279,User_24,40-49,fear,1744101308,Mumbai,Japan
+1280,User_57,40-49,happy,1744610034,Mumbai,Germany
+1281,User_43,60+,surprise,1744840301,London,Japan
+1282,User_80,10-19,neutral,1745581586,London,Germany
+1283,User_39,40-49,happy,1745718983,Mumbai,USA
+1284,User_99,<10,sad,1745091921,London,USA
+1285,User_3,60+,disgust,1743478129,New York,India
+1286,User_18,40-49,fear,1745287965,London,India
+1287,User_39,40-49,happy,1745515154,Mumbai,USA
+1288,User_62,50-59,surprise,1745956877,London,Australia
+1289,User_71,<10,angry,1744120444,Mumbai,USA
+1290,User_81,40-49,angry,1744353002,Tokyo,Japan
+1291,User_16,<10,angry,1745176194,Mumbai,France
+1292,User_36,20-29,sad,1744074152,Paris,France
+1293,User_46,30-39,surprise,1744149685,Paris,Japan
+1294,User_22,<10,sad,1745938232,Tokyo,Australia
+1295,User_10,60+,disgust,1745550709,Sydney,France
+1296,User_99,<10,happy,1745478712,London,USA
+1297,User_55,40-49,fear,1744849748,Berlin,India
+1298,User_56,10-19,disgust,1743743779,New York,Australia
+1299,User_39,20-29,disgust,1745227813,Sydney,Australia
+1300,User_62,50-59,happy,1745771353,London,Australia
+1301,User_99,<10,disgust,1745248631,London,USA
+1302,User_8,10-19,disgust,1745360107,Tokyo,Japan
+1303,User_28,60+,neutral,1745308313,London,Germany
+1304,User_28,60+,neutral,1745199788,New York,France
+1305,User_11,50-59,neutral,1743992069,Berlin,India
+1306,User_33,30-39,sad,1745154872,London,UK
+1307,User_89,30-39,fear,1744984261,New York,USA
+1308,User_85,50-59,neutral,1743687283,New York,UK
+1309,User_58,20-29,disgust,1744344456,Mumbai,India
+1310,User_63,10-19,sad,1743482782,Mumbai,USA
+1311,User_19,10-19,neutral,1745192444,Berlin,India
+1312,User_89,20-29,happy,1745315141,Sydney,UK
+1313,User_37,50-59,neutral,1744168603,Berlin,Australia
+1314,User_63,10-19,angry,1745289176,Mumbai,USA
+1315,User_38,50-59,sad,1745177302,Paris,Australia
+1316,User_95,<10,disgust,1744805750,Berlin,Germany
+1317,User_53,60+,disgust,1745303892,Berlin,Japan
+1318,User_19,10-19,disgust,1744224785,Paris,Japan
+1319,User_11,30-39,sad,1745341764,Mumbai,Australia
+1320,User_55,50-59,fear,1744545642,New York,France
+1321,User_100,30-39,sad,1744186311,New York,France
+1322,User_77,<10,angry,1744609269,Mumbai,Australia
+1323,User_11,10-19,disgust,1744956055,Sydney,France
+1324,User_77,50-59,sad,1743758006,Paris,Japan
+1325,User_39,40-49,sad,1745837133,Mumbai,USA
+1326,User_74,60+,disgust,1745269691,New York,France
+1327,User_58,10-19,neutral,1743938102,Paris,UK
+1328,User_56,40-49,disgust,1743521777,New York,France
+1329,User_57,40-49,neutral,1744582817,Sydney,Australia
+1330,User_89,20-29,angry,1743979722,Sydney,UK
+1331,User_81,40-49,fear,1745772553,Paris,France
+1332,User_39,10-19,disgust,1744498734,Paris,UK
+1333,User_2,<10,fear,1744441476,Mumbai,Japan
+1334,User_46,30-39,surprise,1743745313,Paris,France
+1335,User_3,30-39,angry,1745688584,Tokyo,USA
+1336,User_72,50-59,surprise,1745852842,Mumbai,France
+1337,User_33,<10,fear,1745212104,Sydney,Japan
+1338,User_71,20-29,sad,1744445220,London,UK
+1339,User_28,60+,disgust,1745011705,New York,France
+1340,User_96,10-19,surprise,1745463965,Paris,UK
+1341,User_39,30-39,angry,1745962170,New York,UK
+1342,User_77,<10,fear,1745336511,Mumbai,Australia
+1343,User_55,<10,surprise,1745846050,Mumbai,USA
+1344,User_81,50-59,angry,1745186342,New York,Australia
+1345,User_46,<10,angry,1745251661,London,Australia
+1346,User_38,40-49,surprise,1745674633,Berlin,India
+1347,User_63,10-19,surprise,1744482359,Mumbai,USA
+1348,User_89,20-29,happy,1743777988,Sydney,UK
+1349,User_65,40-49,neutral,1744977700,Berlin,India
+1350,User_84,60+,sad,1745372400,Berlin,Germany
+1351,User_100,20-29,fear,1744961655,New York,Germany
+1352,User_46,30-39,angry,1746027612,Paris,Japan
+1353,User_89,30-39,sad,1745477297,New York,USA
+1354,User_81,40-49,surprise,1744709223,Paris,France
+1355,User_32,60+,fear,1745699405,New York,Japan
+1356,User_10,60+,sad,1744831662,Sydney,France
+1357,User_1,40-49,disgust,1745285882,Paris,Japan
+1358,User_19,10-19,fear,1744757758,Berlin,India
+1359,User_34,30-39,surprise,1745082886,London,Australia
+1360,User_38,10-19,fear,1743750785,Berlin,India
+1361,User_2,<10,fear,1744018015,London,UK
+1362,User_61,20-29,disgust,1745212576,Berlin,France
+1363,User_77,20-29,fear,1745503000,Mumbai,USA
+1364,User_87,60+,sad,1745315905,London,Germany
+1365,User_50,10-19,surprise,1745381154,New York,UK
+1366,User_15,60+,happy,1744911746,Sydney,Japan
+1367,User_84,60+,disgust,1745986330,Berlin,Germany
+1368,User_3,50-59,happy,1744712541,Tokyo,Japan
+1369,User_28,10-19,angry,1744351042,London,France
+1370,User_72,50-59,sad,1743925130,Mumbai,France
+1371,User_29,50-59,sad,1743536156,Paris,France
+1372,User_37,40-49,sad,1745404900,Berlin,Australia
+1373,User_32,20-29,surprise,1745572976,Sydney,Germany
+1374,User_86,50-59,happy,1743750440,Berlin,Japan
+1375,User_10,50-59,disgust,1745500591,Sydney,Australia
+1376,User_81,40-49,happy,1743751726,Tokyo,Japan
+1377,User_76,50-59,surprise,1745558635,Berlin,Germany
+1378,User_72,60+,angry,1745620249,Tokyo,USA
+1379,User_46,30-39,sad,1744522949,Paris,Japan
+1380,User_12,60+,disgust,1744075958,Berlin,Japan
+1381,User_39,20-29,surprise,1744717240,Sydney,Australia
+1382,User_81,50-59,happy,1744712860,New York,Australia
+1383,User_37,30-39,angry,1744813594,Tokyo,India
+1384,User_61,30-39,surprise,1744567054,London,UK
+1385,User_11,60+,sad,1745358117,Berlin,France
+1386,User_81,50-59,surprise,1745021338,New York,Australia
+1387,User_99,<10,happy,1743988258,London,USA
+1388,User_46,<10,angry,1745243362,London,Australia
+1389,User_37,20-29,angry,1744404486,Paris,Germany
+1390,User_19,30-39,angry,1744458528,Sydney,Australia
+1391,User_74,60+,disgust,1743905042,New York,France
+1392,User_48,30-39,surprise,1746007650,Mumbai,Japan
+1393,User_51,60+,disgust,1745203123,Berlin,India
+1394,User_26,40-49,neutral,1744945932,New York,UK
+1395,User_25,20-29,disgust,1745228529,Tokyo,Germany
+1396,User_72,50-59,disgust,1744223378,Mumbai,France
+1397,User_77,40-49,disgust,1745190433,Sydney,USA
+1398,User_72,60+,angry,1744045140,Tokyo,USA
+1399,User_1,20-29,fear,1745568406,Tokyo,France
+1400,User_3,30-39,happy,1744823795,Tokyo,USA
+1401,User_6,60+,neutral,1745128731,New York,UK
+1402,User_11,20-29,fear,1745626011,New York,India
+1403,User_74,40-49,happy,1743721289,Tokyo,USA
+1404,User_71,<10,angry,1744016944,Mumbai,USA
+1405,User_4,50-59,disgust,1745611452,Berlin,Germany
+1406,User_28,60+,neutral,1743874059,New York,France
+1407,User_4,50-59,happy,1743726044,Berlin,Germany
+1408,User_38,50-59,fear,1745585490,Paris,Australia
+1409,User_25,20-29,happy,1743790384,Tokyo,Germany
+1410,User_52,20-29,angry,1744619307,New York,France
+1411,User_64,50-59,disgust,1743719501,Sydney,France
+1412,User_86,50-59,angry,1744112911,Berlin,Japan
+1413,User_95,30-39,disgust,1745890769,Sydney,India
+1414,User_26,40-49,fear,1745336486,New York,UK
+1415,User_46,<10,sad,1745141913,London,Australia
+1416,User_3,60+,disgust,1744801454,New York,India
+1417,User_77,40-49,disgust,1745396767,Sydney,USA
+1418,User_66,20-29,surprise,1743527207,Sydney,Germany
+1419,User_77,40-49,surprise,1744073554,Sydney,USA
+1420,User_8,60+,sad,1743461325,London,USA
+1421,User_39,40-49,surprise,1745368570,Mumbai,USA
+1422,User_12,60+,fear,1744860118,Berlin,Japan
+1423,User_9,<10,neutral,1744904196,Tokyo,UK
+1424,User_20,30-39,disgust,1744013343,London,USA
+1425,User_16,<10,sad,1745214477,Mumbai,France
+1426,User_96,10-19,sad,1745921927,Paris,UK
+1427,User_25,20-29,neutral,1744116027,Tokyo,Germany
+1428,User_49,10-19,happy,1745724411,London,France
+1429,User_66,50-59,surprise,1744078770,London,Japan
+1430,User_11,30-39,neutral,1744626544,Mumbai,Australia
+1431,User_7,30-39,sad,1745441316,Tokyo,UK
+1432,User_28,60+,surprise,1744020588,London,Germany
+1433,User_25,20-29,happy,1744579235,Tokyo,Germany
+1434,User_12,<10,angry,1745766221,Paris,Australia
+1435,User_18,40-49,fear,1745370096,London,India
+1436,User_7,30-39,neutral,1745543979,Tokyo,UK
+1437,User_16,30-39,disgust,1744593807,Tokyo,India
+1438,User_2,<10,disgust,1743812063,Paris,Germany
+1439,User_57,50-59,angry,1744545467,New York,India
+1440,User_2,<10,surprise,1743698152,Paris,Germany
+1441,User_8,60+,surprise,1743878344,London,USA
+1442,User_4,50-59,fear,1744887686,Berlin,Germany
+1443,User_7,30-39,sad,1745543942,Tokyo,UK
+1444,User_45,60+,disgust,1745838393,Mumbai,Japan
+1445,User_64,50-59,happy,1745428786,Sydney,France
+1446,User_61,20-29,disgust,1743531708,Berlin,France
+1447,User_37,50-59,fear,1744261680,Berlin,Australia
+1448,User_2,<10,disgust,1744244408,Paris,Germany
+1449,User_4,40-49,neutral,1745067201,Tokyo,India
+1450,User_77,50-59,surprise,1744889882,Paris,Japan
+1451,User_8,60+,happy,1745595972,London,USA
+1452,User_26,20-29,fear,1744999701,Tokyo,Australia
+1453,User_62,<10,disgust,1745261234,Sydney,Australia
+1454,User_99,<10,neutral,1744556876,London,USA
+1455,User_63,30-39,angry,1744878530,London,Japan
+1456,User_52,60+,happy,1745356305,Mumbai,India
+1457,User_30,30-39,sad,1743466903,Paris,Japan
+1458,User_2,30-39,happy,1744924547,Paris,India
+1459,User_80,30-39,fear,1745336263,New York,India
+1460,User_95,<10,angry,1744751084,Berlin,Germany
+1461,User_46,<10,neutral,1743717498,London,Australia
+1462,User_28,60+,disgust,1744420834,New York,France
+1463,User_58,40-49,surprise,1745884068,Tokyo,UK
+1464,User_51,60+,angry,1744220823,Berlin,India
+1465,User_49,40-49,disgust,1744127145,Berlin,USA
+1466,User_38,10-19,disgust,1743736714,Berlin,India
+1467,User_18,40-49,disgust,1743602825,London,India
+1468,User_18,40-49,neutral,1744555706,London,India
+1469,User_71,<10,fear,1745031291,Mumbai,USA
+1470,User_19,30-39,happy,1743478995,Sydney,Australia
+1471,User_92,20-29,neutral,1743550335,Tokyo,France
+1472,User_41,<10,surprise,1745751804,Sydney,UK
+1473,User_81,40-49,neutral,1745807289,Paris,France
+1474,User_74,60+,angry,1743906088,New York,France
+1475,User_26,40-49,angry,1745149486,New York,UK
+1476,User_98,30-39,happy,1745059909,New York,Japan
+1477,User_39,20-29,surprise,1744743321,Paris,UK
+1478,User_62,50-59,neutral,1743590509,London,Australia
+1479,User_8,60+,angry,1745977408,London,USA
+1480,User_25,20-29,surprise,1744929037,Tokyo,Germany
+1481,User_78,40-49,happy,1745663414,Mumbai,France
+1482,User_26,40-49,fear,1745569032,New York,UK
+1483,User_77,50-59,surprise,1743909169,Mumbai,Germany
+1484,User_2,<10,happy,1744682165,Mumbai,Japan
+1485,User_13,30-39,happy,1744261525,Paris,France
+1486,User_38,40-49,neutral,1745346775,Berlin,India
+1487,User_22,<10,angry,1745146065,Tokyo,India
+1488,User_62,50-59,neutral,1743573977,London,Australia
+1489,User_100,10-19,surprise,1745261655,London,USA
+1490,User_22,<10,disgust,1744335756,Tokyo,Australia
+1491,User_10,50-59,fear,1744177713,Sydney,Australia
+1492,User_77,20-29,disgust,1743674198,Mumbai,USA
+1493,User_38,50-59,sad,1744599677,Paris,Australia
+1494,User_22,<10,neutral,1745243471,Tokyo,India
+1495,User_53,20-29,happy,1745993632,Tokyo,Japan
+1496,User_45,60+,neutral,1743997769,Mumbai,Japan
+1497,User_100,30-39,neutral,1744515116,New York,France
+1498,User_55,50-59,happy,1744599184,New York,France
+1499,User_30,60+,neutral,1744109149,Paris,Australia
+1500,User_74,40-49,happy,1745202972,Tokyo,USA
+1501,User_25,20-29,fear,1744497135,Tokyo,Germany
+1502,User_71,<10,sad,1744179922,Mumbai,USA
+1503,User_46,40-49,disgust,1743493938,Berlin,India
+1504,User_2,<10,surprise,1745038546,London,UK
+1505,User_89,20-29,happy,1744008990,Sydney,UK
+1506,User_19,30-39,fear,1743581531,Sydney,Australia
+1507,User_39,20-29,sad,1745646878,Sydney,Australia
+1508,User_81,50-59,happy,1745441191,New York,Australia
+1509,User_46,40-49,fear,1744522217,Berlin,India
+1510,User_53,50-59,sad,1743831857,London,UK
+1511,User_99,10-19,sad,1744798600,Tokyo,Japan
+1512,User_24,40-49,neutral,1745900258,Mumbai,Japan
+1513,User_74,60+,surprise,1745845464,New York,France
+1514,User_18,40-49,neutral,1745788821,London,India
+1515,User_57,40-49,angry,1745439715,Sydney,Australia
+1516,User_37,20-29,neutral,1745879214,Paris,Germany
+1517,User_46,<10,angry,1743541650,London,Australia
+1518,User_63,30-39,fear,1743817566,London,Japan
+1519,User_2,<10,disgust,1744143725,Mumbai,Japan
+1520,User_24,50-59,disgust,1743792453,Berlin,France
+1521,User_33,30-39,surprise,1745892693,Berlin,Germany
+1522,User_89,20-29,surprise,1744678367,Sydney,UK
+1523,User_8,60+,sad,1745109488,London,USA
+1524,User_33,30-39,angry,1744486850,London,UK
+1525,User_99,<10,disgust,1743901957,London,USA
+1526,User_77,50-59,angry,1745443334,Paris,Japan
+1527,User_40,20-29,surprise,1745434474,Mumbai,India
+1528,User_100,30-39,disgust,1745643591,New York,France
+1529,User_94,<10,neutral,1745915037,Sydney,Japan
+1530,User_77,50-59,fear,1743976026,Paris,Japan
+1531,User_58,20-29,fear,1746008918,Mumbai,India
+1532,User_52,60+,angry,1743842473,Mumbai,India
+1533,User_100,10-19,angry,1745984939,London,USA
+1534,User_2,<10,happy,1745487176,Mumbai,Japan
+1535,User_19,10-19,surprise,1744443380,Berlin,India
+1536,User_64,50-59,neutral,1745705030,Sydney,France
+1537,User_41,60+,neutral,1744934987,Sydney,Japan
+1538,User_81,40-49,happy,1745513780,Tokyo,Japan
+1539,User_42,60+,happy,1743751942,London,Australia
+1540,User_46,<10,fear,1743939189,London,Australia
+1541,User_80,10-19,fear,1745868838,London,Germany
+1542,User_96,10-19,angry,1743727941,Paris,UK
+1543,User_4,40-49,surprise,1745595557,Tokyo,India
+1544,User_78,40-49,sad,1745955201,Mumbai,France
+1545,User_61,60+,sad,1743995664,Tokyo,Germany
+1546,User_72,50-59,sad,1744530245,Mumbai,France
+1547,User_74,20-29,disgust,1744329661,Sydney,India
+1548,User_32,60+,angry,1745340043,New York,Japan
+1549,User_38,50-59,surprise,1743594033,Paris,Australia
+1550,User_62,50-59,disgust,1745182697,London,Australia
+1551,User_56,20-29,fear,1745246623,Paris,Japan
+1552,User_77,10-19,sad,1745990821,New York,Germany
+1553,User_7,30-39,disgust,1745651889,Tokyo,UK
+1554,User_12,20-29,sad,1743727849,Tokyo,France
+1555,User_91,30-39,happy,1743615531,New York,Australia
+1556,User_16,40-49,fear,1743488072,Paris,India
+1557,User_22,<10,neutral,1744464364,Tokyo,Australia
+1558,User_30,30-39,happy,1745855072,Paris,Japan
+1559,User_71,40-49,fear,1745684402,Sydney,Germany
+1560,User_25,10-19,disgust,1743642179,Tokyo,Germany
+1561,User_52,60+,angry,1743787772,Mumbai,India
+1562,User_99,10-19,surprise,1745386053,Tokyo,Japan
+1563,User_55,50-59,surprise,1745131493,New York,France
+1564,User_58,60+,sad,1745216362,New York,USA
+1565,User_26,20-29,fear,1745620308,Tokyo,Australia
+1566,User_43,60+,disgust,1744876070,London,Japan
+1567,User_61,20-29,surprise,1744101741,Berlin,France
+1568,User_20,30-39,angry,1745921719,London,USA
+1569,User_66,50-59,happy,1743926995,London,Japan
+1570,User_77,<10,happy,1744457334,Mumbai,Australia
+1571,User_8,10-19,happy,1745756874,Tokyo,Japan
+1572,User_39,30-39,angry,1743459460,New York,UK
+1573,User_11,20-29,neutral,1744445054,Berlin,UK
+1574,User_2,<10,neutral,1743470121,Mumbai,Japan
+1575,User_82,50-59,sad,1744754850,Tokyo,France
+1576,User_46,30-39,sad,1744747166,Paris,France
+1577,User_98,30-39,angry,1745385481,Paris,Australia
+1578,User_72,60+,sad,1743604689,Tokyo,USA
+1579,User_16,40-49,neutral,1745945754,Paris,India
+1580,User_15,60+,sad,1745486277,Sydney,Japan
+1581,User_11,30-39,sad,1745862095,Mumbai,Australia
+1582,User_17,<10,happy,1745664018,Tokyo,France
+1583,User_1,40-49,angry,1745408140,Paris,Japan
+1584,User_7,30-39,surprise,1744046603,Tokyo,UK
+1585,User_37,30-39,fear,1744367755,Tokyo,India
+1586,User_17,<10,sad,1743526489,Tokyo,France
+1587,User_65,40-49,sad,1744633922,Berlin,India
+1588,User_51,60+,angry,1743739919,Berlin,India
+1589,User_40,20-29,sad,1745276153,Mumbai,India
+1590,User_15,50-59,surprise,1744443291,Berlin,Germany
+1591,User_77,10-19,fear,1744527243,New York,Germany
+1592,User_8,10-19,angry,1744804575,Tokyo,Japan
+1593,User_42,60+,sad,1744784157,London,Australia
+1594,User_7,30-39,sad,1743562587,Tokyo,UK
+1595,User_18,40-49,happy,1744959418,London,India
+1596,User_89,20-29,disgust,1743951328,Sydney,UK
+1597,User_71,<10,fear,1743748478,Mumbai,USA
+1598,User_22,<10,sad,1745611807,Tokyo,Australia
+1599,User_63,30-39,angry,1744488996,London,Japan
+1600,User_62,50-59,angry,1744101422,London,Australia
+1601,User_4,50-59,surprise,1745190116,Berlin,Germany
+1602,User_77,50-59,fear,1744637662,Mumbai,Germany
+1603,User_99,<10,angry,1744684052,London,USA
+1604,User_9,<10,angry,1744613078,Tokyo,UK
+1605,User_1,20-29,angry,1745606224,Tokyo,France
+1606,User_18,40-49,fear,1745274773,London,India
+1607,User_36,20-29,neutral,1744379672,Paris,France
+1608,User_71,<10,disgust,1744439527,Mumbai,USA
+1609,User_48,30-39,happy,1745146343,Mumbai,Japan
+1610,User_58,20-29,fear,1743554621,Mumbai,India
+1611,User_100,10-19,happy,1744609287,London,USA
+1612,User_63,30-39,disgust,1746032374,London,Japan
+1613,User_92,20-29,disgust,1744007570,Tokyo,France
+1614,User_43,60+,angry,1745848202,London,Japan
+1615,User_15,60+,fear,1745631594,Sydney,Japan
+1616,User_37,50-59,sad,1745240239,Berlin,Australia
+1617,User_65,40-49,sad,1745214517,Berlin,India
+1618,User_96,50-59,disgust,1744147768,Sydney,India
+1619,User_33,<10,happy,1743888806,Sydney,Japan
+1620,User_21,20-29,sad,1743755286,Tokyo,Japan
+1621,User_20,30-39,surprise,1744151918,London,USA
+1622,User_12,<10,angry,1745796050,Paris,Australia
+1623,User_17,<10,angry,1744619903,Tokyo,France
+1624,User_57,40-49,sad,1746020533,Sydney,Australia
+1625,User_66,<10,angry,1744767306,London,USA
+1626,User_77,<10,sad,1743637377,London,USA
+1627,User_16,<10,surprise,1745602114,Mumbai,France
+1628,User_39,20-29,surprise,1743655716,Paris,UK
+1629,User_28,60+,fear,1745089514,New York,France
+1630,User_4,<10,sad,1744193428,Mumbai,Germany
+1631,User_30,10-19,surprise,1744430233,Mumbai,Germany
+1632,User_9,20-29,angry,1745574895,Berlin,Australia
+1633,User_80,10-19,angry,1745802174,London,Germany
+1634,User_15,60+,disgust,1743710122,Sydney,Japan
+1635,User_4,<10,surprise,1744604475,Mumbai,Germany
+1636,User_55,40-49,sad,1744211036,Berlin,India
+1637,User_28,60+,happy,1743986230,London,Germany
+1638,User_2,<10,sad,1745567762,Mumbai,Japan
+1639,User_8,10-19,surprise,1745596408,Tokyo,Japan
+1640,User_30,10-19,fear,1745867465,Berlin,France
+1641,User_25,10-19,disgust,1744652389,Tokyo,Germany
+1642,User_73,10-19,surprise,1744537679,Sydney,Australia
+1643,User_22,<10,angry,1744352503,Tokyo,India
+1644,User_16,20-29,surprise,1745954644,Berlin,USA
+1645,User_33,30-39,angry,1745598165,London,UK
+1646,User_43,60+,surprise,1744599777,London,Japan
+1647,User_99,<10,happy,1744501554,London,USA
+1648,User_9,<10,disgust,1745010926,Tokyo,UK
+1649,User_32,60+,surprise,1745053875,New York,Japan
+1650,User_62,<10,sad,1744166867,Berlin,Germany
+1651,User_2,30-39,surprise,1743943557,Paris,India
+1652,User_52,30-39,angry,1745767705,Paris,Australia
+1653,User_3,50-59,angry,1746012686,Tokyo,Japan
+1654,User_51,20-29,surprise,1744106537,Mumbai,India
+1655,User_43,60+,angry,1745216597,London,Japan
+1656,User_7,40-49,fear,1744503033,Paris,USA
+1657,User_53,20-29,surprise,1745751644,Tokyo,Japan
+1658,User_63,30-39,angry,1745698745,London,Japan
+1659,User_55,<10,happy,1744727340,Mumbai,USA
+1660,User_77,<10,neutral,1745178936,London,USA
+1661,User_37,60+,surprise,1744455370,Sydney,India
+1662,User_71,<10,angry,1745165022,Mumbai,USA
+1663,User_16,40-49,surprise,1744096124,Paris,India
+1664,User_43,30-39,happy,1746012872,London,USA
+1665,User_71,<10,sad,1745099728,Mumbai,USA
+1666,User_7,40-49,fear,1744328581,Paris,USA
+1667,User_38,10-19,sad,1743676740,Berlin,India
+1668,User_12,<10,surprise,1744710387,Paris,Australia
+1669,User_37,20-29,disgust,1745020876,Paris,Germany
+1670,User_28,60+,surprise,1744267385,London,Germany
+1671,User_38,10-19,neutral,1744887869,Berlin,India
+1672,User_38,50-59,surprise,1745815967,Paris,Australia
+1673,User_7,30-39,fear,1743605520,Tokyo,UK
+1674,User_39,20-29,angry,1744302415,Paris,UK
+1675,User_39,20-29,sad,1744956270,Sydney,Australia
+1676,User_39,10-19,happy,1745945779,Paris,UK
+1677,User_19,50-59,fear,1744027163,New York,USA
+1678,User_64,50-59,angry,1745709329,Sydney,France
+1679,User_58,40-49,disgust,1745408062,Tokyo,UK
+1680,User_21,20-29,sad,1745079278,Tokyo,Japan
+1681,User_10,60+,fear,1743783031,Sydney,France
+1682,User_65,40-49,surprise,1745527880,Berlin,India
+1683,User_10,50-59,disgust,1743842202,Sydney,Australia
+1684,User_63,30-39,angry,1743892510,London,Japan
+1685,User_94,<10,surprise,1744604390,Sydney,Japan
+1686,User_24,30-39,happy,1744255144,Mumbai,Japan
+1687,User_22,<10,disgust,1744261463,Paris,Australia
+1688,User_95,<10,surprise,1745792887,Berlin,Germany
+1689,User_9,20-29,surprise,1745486745,Berlin,Australia
+1690,User_8,10-19,sad,1743670349,Tokyo,Japan
+1691,User_55,40-49,fear,1744895318,Berlin,India
+1692,User_7,40-49,sad,1744289558,Paris,USA
+1693,User_48,30-39,neutral,1745085587,Mumbai,Japan
+1694,User_99,10-19,surprise,1745246756,Tokyo,Japan
+1695,User_78,40-49,surprise,1744861057,Mumbai,France
+1696,User_10,30-39,angry,1743462677,Sydney,Japan
+1697,User_25,10-19,neutral,1745439874,Tokyo,Germany
+1698,User_84,60+,fear,1744414463,Berlin,Germany
+1699,User_37,40-49,fear,1744948616,Berlin,Australia
+1700,User_53,20-29,angry,1745913567,Tokyo,Japan
+1701,User_30,60+,fear,1745919826,Paris,Australia
+1702,User_49,40-49,disgust,1745146946,Berlin,USA
+1703,User_6,60+,happy,1745281566,New York,UK
+1704,User_81,50-59,sad,1745550701,New York,Australia
+1705,User_19,50-59,disgust,1745350040,New York,USA
+1706,User_98,30-39,sad,1744010313,New York,Japan
+1707,User_80,10-19,neutral,1743475681,London,Germany
+1708,User_32,20-29,neutral,1744709930,Sydney,Germany
+1709,User_26,40-49,happy,1744030395,New York,UK
+1710,User_74,60+,surprise,1743874460,New York,France
+1711,User_96,10-19,neutral,1745519217,Paris,UK
+1712,User_46,<10,disgust,1744833613,London,Australia
+1713,User_82,50-59,surprise,1745807708,Tokyo,France
+1714,User_11,50-59,angry,1745119920,Berlin,India
+1715,User_62,<10,neutral,1744644435,Berlin,Germany
+1716,User_13,30-39,surprise,1745731235,Paris,France
+1717,User_4,40-49,surprise,1745377767,Tokyo,India
+1718,User_49,10-19,disgust,1743537381,London,France
+1719,User_52,30-39,angry,1744579921,Paris,Australia
+1720,User_77,50-59,surprise,1744200273,Mumbai,Germany
+1721,User_15,10-19,happy,1745533830,New York,India
+1722,User_55,50-59,angry,1745796758,New York,France
+1723,User_4,<10,sad,1745392902,Mumbai,Germany
+1724,User_80,10-19,sad,1745357415,London,Germany
+1725,User_49,40-49,angry,1745270188,Berlin,USA
+1726,User_77,<10,sad,1745149734,Mumbai,Australia
+1727,User_12,20-29,angry,1745276228,Tokyo,France
+1728,User_81,50-59,surprise,1745726523,New York,Australia
+1729,User_4,50-59,angry,1745215339,Berlin,Germany
+1730,User_6,60+,disgust,1745972514,New York,UK
+1731,User_81,40-49,happy,1745471179,Paris,France
+1732,User_1,20-29,surprise,1745832210,Tokyo,France
+1733,User_37,50-59,sad,1745375265,Berlin,Australia
+1734,User_51,20-29,happy,1745891984,Mumbai,India
+1735,User_39,20-29,fear,1745673819,Sydney,Australia
+1736,User_48,30-39,angry,1744307959,Mumbai,Japan
+1737,User_46,30-39,happy,1743492348,Paris,Japan
+1738,User_84,60+,fear,1743690456,Berlin,Germany
+1739,User_46,30-39,surprise,1745618126,Paris,Japan
+1740,User_39,40-49,disgust,1745935721,Mumbai,USA
+1741,User_46,30-39,neutral,1746009460,Paris,France
+1742,User_22,<10,neutral,1745051562,Paris,Australia
+1743,User_89,20-29,fear,1744908570,Sydney,UK
+1744,User_86,10-19,surprise,1745340003,Paris,France
+1745,User_99,<10,fear,1745216483,London,USA
+1746,User_1,40-49,sad,1744278333,Paris,Japan
+1747,User_58,40-49,happy,1743726322,Tokyo,UK
+1748,User_46,60+,happy,1744197863,New York,UK
+1749,User_34,30-39,angry,1744611174,London,Australia
+1750,User_38,50-59,surprise,1745152179,Paris,Australia
+1751,User_8,10-19,happy,1744724051,Tokyo,Japan
+1752,User_37,20-29,happy,1743689676,Paris,Germany
+1753,User_25,20-29,surprise,1744322714,Tokyo,Germany
+1754,User_10,30-39,happy,1744019489,Sydney,Japan
+1755,User_11,30-39,disgust,1743499957,Mumbai,Australia
+1756,User_15,10-19,angry,1745390532,New York,India
+1757,User_46,60+,fear,1743822268,Mumbai,UK
+1758,User_30,60+,surprise,1745012331,Paris,Australia
+1759,User_46,60+,fear,1744724652,Mumbai,UK
+1760,User_52,20-29,sad,1743619913,New York,France
+1761,User_48,60+,surprise,1744868096,London,India
+1762,User_43,30-39,surprise,1743644054,London,USA
+1763,User_53,60+,surprise,1744265518,Berlin,Japan
+1764,User_99,10-19,happy,1743507499,Tokyo,Japan
+1765,User_56,40-49,fear,1745249863,New York,France
+1766,User_100,10-19,neutral,1745064947,London,USA
+1767,User_77,40-49,fear,1744660960,Sydney,USA
+1768,User_51,20-29,angry,1744123554,Mumbai,India
+1769,User_16,40-49,happy,1744200374,Paris,India
+1770,User_11,50-59,disgust,1745187700,Berlin,India
+1771,User_38,40-49,sad,1745862692,Berlin,India
+1772,User_16,20-29,disgust,1745779063,Berlin,USA
+1773,User_66,50-59,neutral,1744019648,London,Japan
+1774,User_77,20-29,happy,1743621309,Mumbai,USA
+1775,User_76,50-59,neutral,1745271145,Berlin,Germany
+1776,User_86,10-19,disgust,1745795002,Paris,France
+1777,User_46,60+,happy,1745897037,New York,UK
+1778,User_11,<10,fear,1745202436,Paris,India
+1779,User_2,30-39,fear,1744158073,Paris,India
+1780,User_18,<10,disgust,1743735586,Mumbai,Japan
+1781,User_84,60+,surprise,1744611856,Berlin,Germany
+1782,User_19,10-19,happy,1745071604,Sydney,Germany
+1783,User_10,30-39,disgust,1744030390,Sydney,Japan
+1784,User_33,30-39,happy,1744053036,London,UK
+1785,User_58,60+,angry,1744023980,New York,USA
+1786,User_15,60+,neutral,1744355143,Sydney,Japan
+1787,User_62,50-59,angry,1744038920,London,Australia
+1788,User_51,60+,sad,1743791178,Berlin,India
+1789,User_15,10-19,angry,1743596160,New York,India
+1790,User_71,<10,fear,1744749441,Mumbai,USA
+1791,User_26,20-29,disgust,1744472752,Tokyo,Australia
+1792,User_27,30-39,disgust,1744677733,Paris,Australia
+1793,User_85,50-59,neutral,1746002332,New York,UK
+1794,User_74,40-49,happy,1743598910,Tokyo,USA
+1795,User_61,20-29,angry,1743631471,Berlin,France
+1796,User_4,40-49,angry,1743753813,Tokyo,India
+1797,User_77,<10,disgust,1744216324,London,USA
+1798,User_61,20-29,angry,1744241021,Berlin,France
+1799,User_71,20-29,neutral,1744617057,London,UK
+1800,User_22,<10,sad,1745489282,Paris,Australia
+1801,User_30,10-19,disgust,1745193068,Mumbai,Germany
+1802,User_58,20-29,disgust,1744421811,Mumbai,India
+1803,User_21,20-29,disgust,1744009042,Tokyo,Japan
+1804,User_25,20-29,happy,1744025529,Tokyo,Germany
+1805,User_19,10-19,neutral,1744715897,Sydney,Germany
+1806,User_3,50-59,sad,1744759520,Tokyo,Japan
+1807,User_16,20-29,angry,1745927234,Berlin,USA
+1808,User_30,30-39,sad,1744129237,Paris,Japan
+1809,User_42,60+,angry,1744806688,London,Australia
+1810,User_61,50-59,fear,1744742955,London,France
+1811,User_37,30-39,surprise,1745231070,Tokyo,India
+1812,User_61,30-39,happy,1744665047,London,UK
+1813,User_33,<10,neutral,1745672918,Sydney,Japan
+1814,User_28,60+,fear,1745699705,New York,France
+1815,User_51,20-29,happy,1743907920,Mumbai,India
+1816,User_13,30-39,happy,1744759488,Paris,France
+1817,User_92,20-29,angry,1745560106,Tokyo,France
+1818,User_92,20-29,surprise,1743999448,Tokyo,France
+1819,User_12,60+,fear,1745535689,Berlin,Japan
+1820,User_49,50-59,angry,1743659529,Paris,India
+1821,User_71,<10,neutral,1745724092,Mumbai,USA
+1822,User_3,30-39,angry,1745476493,Tokyo,USA
+1823,User_12,<10,angry,1744605367,Paris,Australia
+1824,User_4,<10,sad,1745138934,Mumbai,Germany
+1825,User_77,50-59,fear,1744921095,Paris,Japan
+1826,User_73,10-19,happy,1744969397,Sydney,Australia
+1827,User_37,40-49,disgust,1743988950,Berlin,Australia
+1828,User_39,40-49,happy,1744164674,Mumbai,USA
+1829,User_77,40-49,sad,1744488062,Sydney,USA
+1830,User_2,<10,neutral,1744019427,Paris,Germany
+1831,User_56,10-19,disgust,1744954344,New York,Australia
+1832,User_18,<10,fear,1745168297,Mumbai,Japan
+1833,User_25,20-29,fear,1745626736,Tokyo,Germany
+1834,User_57,40-49,angry,1744642184,Sydney,Australia
+1835,User_56,20-29,fear,1744394930,Paris,Japan
+1836,User_7,30-39,surprise,1744842860,Tokyo,UK
+1837,User_32,20-29,disgust,1743643192,Sydney,Germany
+1838,User_53,20-29,angry,1744597170,Tokyo,Japan
+1839,User_66,20-29,sad,1745844215,Sydney,Germany
+1840,User_53,60+,angry,1743999456,Berlin,Japan
+1841,User_85,50-59,fear,1745516753,New York,UK
+1842,User_2,<10,disgust,1743951027,Paris,Germany
+1843,User_37,30-39,angry,1743950325,Tokyo,India
+1844,User_84,60+,fear,1744575817,Berlin,Germany
+1845,User_71,40-49,disgust,1743868539,Sydney,Germany
+1846,User_77,10-19,disgust,1744856636,New York,Germany
+1847,User_12,60+,fear,1744831886,Berlin,Japan
+1848,User_12,<10,happy,1745735590,Paris,Australia
+1849,User_94,<10,sad,1745990469,Sydney,Japan
+1850,User_1,40-49,sad,1745426915,Paris,Japan
+1851,User_53,60+,fear,1744110676,Berlin,Japan
+1852,User_71,<10,surprise,1743544033,Mumbai,USA
+1853,User_77,<10,fear,1743698466,Mumbai,Australia
+1854,User_28,60+,sad,1743837980,London,Germany
+1855,User_16,30-39,disgust,1745877051,Tokyo,India
+1856,User_12,20-29,sad,1745419373,Tokyo,France
+1857,User_59,<10,angry,1745267894,Mumbai,USA
+1858,User_11,<10,sad,1745398861,Paris,India
+1859,User_89,30-39,disgust,1745507501,New York,USA
+1860,User_100,<10,sad,1745610511,Berlin,India
+1861,User_19,30-39,sad,1744519330,Sydney,Australia
+1862,User_2,<10,surprise,1743461838,London,UK
+1863,User_58,60+,sad,1744645541,New York,USA
+1864,User_10,50-59,surprise,1743878048,Sydney,Australia
+1865,User_46,30-39,sad,1745057875,Paris,Japan
+1866,User_72,50-59,surprise,1743778718,Mumbai,France
+1867,User_11,20-29,happy,1744681604,New York,India
+1868,User_50,10-19,happy,1745401285,New York,UK
+1869,User_30,60+,surprise,1743810208,Paris,Australia
+1870,User_57,40-49,angry,1744854793,Sydney,Australia
+1871,User_81,40-49,disgust,1743696870,Paris,France
+1872,User_61,60+,disgust,1743829188,Tokyo,Germany
+1873,User_57,40-49,disgust,1743483853,Sydney,Australia
+1874,User_27,30-39,disgust,1745536991,Paris,Australia
+1875,User_8,60+,happy,1743908684,London,USA
+1876,User_72,60+,surprise,1745318044,Tokyo,USA
+1877,User_71,<10,sad,1745038003,Mumbai,USA
+1878,User_39,40-49,surprise,1744031796,Mumbai,USA
+1879,User_72,50-59,happy,1744711645,Mumbai,France
+1880,User_87,60+,sad,1745454715,London,Germany
+1881,User_33,30-39,fear,1745089461,Berlin,Germany
+1882,User_86,10-19,happy,1743464938,Paris,France
+1883,User_100,30-39,surprise,1743570334,New York,France
+1884,User_6,60+,fear,1745428816,New York,UK
+1885,User_55,40-49,happy,1744701198,Berlin,India
+1886,User_66,50-59,sad,1745211348,London,Japan
+1887,User_98,30-39,happy,1743821147,Paris,Australia
+1888,User_57,40-49,disgust,1744191457,Mumbai,Germany
+1889,User_22,<10,angry,1744010202,Tokyo,Australia
+1890,User_95,<10,neutral,1745966072,Berlin,Germany
+1891,User_72,50-59,neutral,1745683883,Mumbai,France
+1892,User_52,30-39,surprise,1744986739,Paris,Australia
+1893,User_55,<10,surprise,1746026147,Mumbai,USA
+1894,User_7,30-39,happy,1745927842,Tokyo,UK
+1895,User_16,<10,happy,1743585170,Mumbai,France
+1896,User_77,50-59,sad,1743773457,Paris,Japan
+1897,User_70,40-49,angry,1745987858,Paris,France
+1898,User_16,30-39,happy,1746026388,Tokyo,India
+1899,User_1,20-29,angry,1744659087,Tokyo,France
+1900,User_18,<10,fear,1744474269,Mumbai,Japan
+1901,User_48,60+,angry,1745942508,London,India
+1902,User_38,50-59,happy,1745636377,Paris,Australia
+1903,User_43,60+,surprise,1745402887,London,Japan
+1904,User_39,20-29,angry,1745760667,Sydney,Australia
+1905,User_46,60+,fear,1744109935,Mumbai,UK
+1906,User_61,30-39,sad,1744436851,London,UK
+1907,User_61,30-39,happy,1744833744,London,UK
+1908,User_40,40-49,happy,1745132882,Berlin,India
+1909,User_32,60+,sad,1743668580,New York,Japan
+1910,User_38,10-19,angry,1744074753,Berlin,India
+1911,User_61,30-39,happy,1745896169,London,UK
+1912,User_57,40-49,neutral,1743708561,Sydney,Australia
+1913,User_55,30-39,happy,1744709142,Paris,UK
+1914,User_1,20-29,disgust,1744685125,Tokyo,France
+1915,User_82,50-59,angry,1745149536,Tokyo,France
+1916,User_72,50-59,disgust,1745863439,Mumbai,France
+1917,User_25,20-29,neutral,1745262084,Tokyo,Germany
+1918,User_2,<10,fear,1744261764,Paris,Germany
+1919,User_72,50-59,surprise,1744325721,Mumbai,France
+1920,User_38,50-59,fear,1744273309,Paris,Australia
+1921,User_24,50-59,neutral,1745659590,Berlin,France
+1922,User_41,<10,disgust,1745990338,Sydney,UK
+1923,User_71,<10,angry,1744000871,Mumbai,USA
+1924,User_64,50-59,neutral,1744673263,Sydney,France
+1925,User_100,10-19,neutral,1745554551,London,USA
+1926,User_80,30-39,happy,1745045065,New York,India
+1927,User_96,50-59,sad,1745096714,Sydney,India
+1928,User_62,<10,surprise,1744218131,Berlin,Germany
+1929,User_28,60+,neutral,1743769768,London,Germany
+1930,User_66,20-29,fear,1744927508,Sydney,Germany
+1931,User_53,60+,happy,1745147619,Berlin,Japan
+1932,User_71,<10,fear,1743566210,Mumbai,USA
+1933,User_55,50-59,disgust,1744005131,New York,France
+1934,User_84,60+,angry,1744386390,Berlin,Germany
+1935,User_36,20-29,surprise,1743924446,Paris,France
+1936,User_57,20-29,disgust,1744924552,Sydney,Germany
+1937,User_59,<10,fear,1744396597,Mumbai,USA
+1938,User_17,<10,fear,1744728317,Tokyo,France
+1939,User_33,30-39,surprise,1743645701,Berlin,Germany
+1940,User_19,10-19,neutral,1744385896,Sydney,Germany
+1941,User_61,30-39,fear,1745000994,London,UK
+1942,User_57,40-49,disgust,1745291965,Mumbai,Germany
+1943,User_19,30-39,fear,1744544576,Sydney,Australia
+1944,User_80,30-39,angry,1743484561,New York,India
+1945,User_80,10-19,sad,1745855711,London,Germany
+1946,User_15,60+,disgust,1744969556,Sydney,Japan
+1947,User_48,30-39,neutral,1744403887,Mumbai,Japan
+1948,User_74,60+,sad,1745425691,New York,France
+1949,User_39,10-19,fear,1743975607,Paris,UK
+1950,User_46,60+,sad,1743603169,Mumbai,UK
+1951,User_1,20-29,neutral,1745387181,Tokyo,France
+1952,User_10,30-39,neutral,1745181890,Sydney,Japan
+1953,User_2,<10,neutral,1743929605,Mumbai,Japan
+1954,User_26,20-29,happy,1743703252,Tokyo,Australia
+1955,User_38,50-59,surprise,1745129980,Paris,Australia
+1956,User_100,10-19,happy,1745607821,London,USA
+1957,User_20,30-39,fear,1745783128,London,USA
+1958,User_81,40-49,happy,1743948209,Tokyo,Japan
+1959,User_37,20-29,fear,1744699912,Paris,Germany
+1960,User_24,40-49,disgust,1745590366,Mumbai,Japan
+1961,User_80,10-19,fear,1744741467,London,Germany
+1962,User_72,60+,happy,1745705789,Tokyo,USA
+1963,User_77,20-29,happy,1745893889,Mumbai,USA
+1964,User_30,30-39,fear,1745384134,Paris,Japan
+1965,User_10,50-59,fear,1745059645,Sydney,Australia
+1966,User_26,20-29,sad,1745180338,Tokyo,Australia
+1967,User_40,40-49,sad,1743870308,Berlin,India
+1968,User_16,30-39,fear,1744333343,Tokyo,India
+1969,User_15,60+,surprise,1744021341,Sydney,Japan
+1970,User_19,30-39,sad,1745407592,Sydney,Australia
+1971,User_26,20-29,surprise,1745898870,Tokyo,Australia
+1972,User_80,10-19,surprise,1744121145,London,Germany
+1973,User_9,20-29,angry,1745137939,Berlin,Australia
+1974,User_77,50-59,angry,1743993905,Paris,Japan
+1975,User_59,<10,fear,1744618050,Mumbai,USA
+1976,User_58,40-49,fear,1744999425,Tokyo,UK
+1977,User_40,20-29,neutral,1745994522,Mumbai,India
+1978,User_12,20-29,neutral,1745494570,Tokyo,France
+1979,User_55,50-59,happy,1745095570,New York,France
+1980,User_58,20-29,surprise,1744386241,Mumbai,India
+1981,User_70,40-49,fear,1744742243,Paris,France
+1982,User_81,50-59,angry,1743772528,New York,Australia
+1983,User_81,40-49,happy,1743905245,Tokyo,Japan
+1984,User_62,<10,fear,1743967987,Sydney,Australia
+1985,User_77,50-59,sad,1743822063,Paris,Japan
+1986,User_66,<10,disgust,1745711118,London,USA
+1987,User_9,20-29,fear,1744830420,Berlin,Australia
+1988,User_52,60+,angry,1745747520,Mumbai,India
+1989,User_80,30-39,surprise,1744358190,New York,India
+1990,User_15,60+,sad,1745938482,Sydney,Japan
+1991,User_46,<10,happy,1745750462,London,Australia
+1992,User_26,20-29,neutral,1743582739,Tokyo,Australia
+1993,User_99,10-19,happy,1743504771,Tokyo,Japan
+1994,User_24,40-49,angry,1745015337,Mumbai,Japan
+1995,User_30,10-19,disgust,1744682602,Mumbai,Germany
+1996,User_89,30-39,fear,1744318198,New York,USA
+1997,User_56,50-59,fear,1744323532,New York,USA
+1998,User_3,50-59,neutral,1745765492,Tokyo,Japan
+1999,User_8,60+,sad,1744382212,Berlin,Australia
+2000,User_7,40-49,disgust,1744004590,Paris,USA

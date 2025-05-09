@@ -1,0 +1,15 @@
+# This is the requirements file for the Streamlit application.
+# It includes all the necessary libraries and their versions.
+# Make sure to install these in your virtual environment.
+# You can create a virtual environment using:
+# python -m venv env
+# Then activate it using:
+streamlit==1.34.0
+opencv-python==4.9.0.80
+face_recognition==1.3.0
+numpy==1.26.4
+fer==22.4.0
+pillow==10.3.0
+google-api-python-client==2.123.0
+google-generativeai==0.3.2
+requests==2.31.0
